@@ -12,9 +12,11 @@ authors:
     email: "1610369302@qq.com"
     affiliation: "独立研究者 / Independent Researcher"
 date-released: "2026-10-25"
+doi: 10.5281/zenodo.23637236
+concept-doi: 10.5281/zenodo.23637235
 license: CC-BY-4.0
 repository-code: "https://github.com/lyp0746/mind-forks"
-url: "https://github.com/lyp0746/mind-forks"
+url: "https://doi.org/10.5281/zenodo.23637236"
 keywords:
   - "心理学史"
   - "精神分析"
