@@ -3,6 +3,8 @@
 > 从无意识到可观察——心理学流派的六次划线
 >
 > 一本科普专著：用“看见、记住、跟上、选择、讲述、临界”六个提问，读心理学一百五十年的流派史。
+>
+> **DOI**：[10.5281/zenodo.23637236](https://doi.org/10.5281/zenodo.23637236)　·　概念 DOI：10.5281/zenodo.23637235
 
 [![License: CC BY 4.0](https://img.shields.io/badge/Content-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE-MIT)
