@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" width="1000" height="640" font-family="Microsoft YaHei, PingFang SC, SimHei, sans-serif">
+<rect width="1000" height="640" fill="#ffffff"/>
+<text x="500" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">六核回望：一条螺旋，不是一条直线</text>
+<text x="500" y="62" text-anchor="middle" font-size="14" fill="#666666">每一部分让出的东西，被下一部分以新的工具拿回来</text>
+<defs><marker id="ah" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"
+markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 z" fill="#666666"/></marker></defs>
+<circle cx="500.0" cy="140.0" r="40" fill="#fbfcfe" stroke="#2f6db0" stroke-width="2.4"/>
+<text x="500.0" y="147.0" text-anchor="middle" font-size="17" fill="#2f6db0" font-weight="bold">看见</text>
+<path d="M 500.0 140.0 A 190 190 0 0 1 657.6 239.0" fill="none" stroke="#2f6db0" stroke-width="2" opacity="0.6"/>
+<circle cx="657.6166234887678" cy="239.0" r="40" fill="#fbfcfe" stroke="#2e7d32" stroke-width="2.4"/>
+<text x="657.6166234887678" y="246.0" text-anchor="middle" font-size="17" fill="#2e7d32" font-weight="bold">记住</text>
+<path d="M 657.6 239.0 A 182 182 0 0 1 650.7 417.0" fill="none" stroke="#2e7d32" stroke-width="2" opacity="0.6"/>
+<circle cx="650.6884202584923" cy="417.0" r="40" fill="#fbfcfe" stroke="#ef6c00" stroke-width="2.4"/>
+<text x="650.6884202584923" y="424.0" text-anchor="middle" font-size="17" fill="#ef6c00" font-weight="bold">跟上</text>
+<path d="M 650.7 417.0 A 174 174 0 0 1 500.0 496.0" fill="none" stroke="#ef6c00" stroke-width="2" opacity="0.6"/>
+<circle cx="500.0" cy="496.0" r="40" fill="#fbfcfe" stroke="#b8862f" stroke-width="2.4"/>
+<text x="500.0" y="503.0" text-anchor="middle" font-size="17" fill="#b8862f" font-weight="bold">选择</text>
+<path d="M 500.0 496.0 A 166 166 0 0 1 363.2 409.0" fill="none" stroke="#b8862f" stroke-width="2" opacity="0.6"/>
+<circle cx="363.1679862020587" cy="409.00000000000006" r="40" fill="#fbfcfe" stroke="#8e5a9c" stroke-width="2.4"/>
+<text x="363.1679862020587" y="416.00000000000006" text-anchor="middle" font-size="17" fill="#8e5a9c" font-weight="bold">讲述</text>
+<path d="M 363.2 409.0 A 158 158 0 0 1 370.1 255.0" fill="none" stroke="#8e5a9c" stroke-width="2" opacity="0.6"/>
+<circle cx="370.0961894323342" cy="255.0" r="40" fill="#fbfcfe" stroke="#c62828" stroke-width="2.4"/>
+<text x="370.0961894323342" y="262.0" text-anchor="middle" font-size="17" fill="#c62828" font-weight="bold">临界</text>
+<path d="M 370.1 255.0 A 150 150 0 0 1 500.0 188.0" fill="none" stroke="#c62828" stroke-width="2" opacity="0.6"/>
+<text x="500" y="320" text-anchor="middle" font-size="16" fill="#b8862f" font-weight="bold">让出</text>
+<text x="500" y="348" text-anchor="middle" font-size="16" fill="#b8862f" font-weight="bold">回归</text>
+<text x="500" y="590" text-anchor="middle" font-size="13" fill="#666666" font-weight="normal">回归不是回到原点：载体变了，翻译有损，问题被重新问了一遍。</text>
+</svg>

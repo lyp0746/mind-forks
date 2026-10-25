@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="1000" height="620" font-family="Microsoft YaHei, PingFang SC, SimHei, sans-serif">
+<rect width="1000" height="620" fill="#ffffff"/>
+<text x="500" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">三种钟：毫秒、一次行为、一生</text>
+<text x="500" y="62" text-anchor="middle" font-size="14" fill="#666666">同一个心理过程，在三个尺度上是三种不同的对象</text>
+<defs><marker id="ah" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"
+markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 z" fill="#666666"/></marker></defs>
+<text x="80" y="120" text-anchor="start" font-size="17" fill="#2f6db0" font-weight="bold">冯特：毫秒</text>
+<text x="80" y="146" text-anchor="start" font-size="13" fill="#666666" font-weight="normal">反应时、阈限、注意转移</text>
+<line x1="80" y1="176" x2="920" y2="176" stroke="#dddddd" stroke-width="8"/>
+<circle cx="147.2" cy="176" r="8" fill="#2f6db0" stroke="#2f6db0" stroke-width="1.6"/>
+<text x="147.2" y="208" text-anchor="middle" font-size="13" fill="#2f6db0" font-weight="normal">0.001 s — 1 s</text>
+<text x="920" y="208" text-anchor="end" font-size="12" fill="#666666" font-weight="normal">→ 能看见</text>
+<text x="80" y="270" text-anchor="start" font-size="17" fill="#2e7d32" font-weight="bold">布伦塔诺：一次行为</text>
+<text x="80" y="296" text-anchor="start" font-size="13" fill="#666666" font-weight="normal">看见一个对象、判断一个命题</text>
+<line x1="80" y1="326" x2="920" y2="326" stroke="#dddddd" stroke-width="8"/>
+<circle cx="365.6" cy="326" r="8" fill="#2e7d32" stroke="#2e7d32" stroke-width="1.6"/>
+<text x="365.6" y="358" text-anchor="middle" font-size="13" fill="#2e7d32" font-weight="normal">1 s — 1 min</text>
+<text x="920" y="358" text-anchor="end" font-size="12" fill="#666666" font-weight="normal">→ 能看见</text>
+<text x="80" y="420" text-anchor="start" font-size="17" fill="#ef6c00" font-weight="bold">詹姆斯：一生</text>
+<text x="80" y="446" text-anchor="start" font-size="13" fill="#666666" font-weight="normal">习惯、适应、选择</text>
+<line x1="80" y1="476" x2="920" y2="476" stroke="#dddddd" stroke-width="8"/>
+<circle cx="668.0" cy="476" r="8" fill="#ef6c00" stroke="#ef6c00" stroke-width="1.6"/>
+<text x="668.0" y="508" text-anchor="middle" font-size="13" fill="#ef6c00" font-weight="normal">1 年 — 80 年</text>
+<text x="920" y="508" text-anchor="end" font-size="12" fill="#666666" font-weight="normal">→ 能看见</text>
+<text x="500" y="580" text-anchor="middle" font-size="13" fill="#666666" font-weight="normal">选哪个钟，决定了你能看见什么、看不见什么；三个钟不能同时对准。</text>
+</svg>

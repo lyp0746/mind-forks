@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 540" width="1000" height="540" font-family="Microsoft YaHei, PingFang SC, SimHei, sans-serif">
+<rect width="1000" height="540" fill="#ffffff"/>
+<text x="500" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">暴露：焦虑不会一次消失，但峰谷会逐渐下移</text>
+<text x="500" y="62" text-anchor="middle" font-size="14" fill="#666666">抑制性学习：旧恐惧还在，新的“安全学习”逐渐占上风</text>
+<defs><marker id="ah" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"
+markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 z" fill="#666666"/></marker></defs>
+<line x1="100" y1="420" x2="900" y2="420" stroke="#666666" stroke-width="1.6"/>
+<line x1="100" y1="420" x2="100" y2="120" stroke="#666666" stroke-width="1.6"/>
+<text x="80" y="130" text-anchor="end" font-size="12" fill="#666666" font-weight="normal">焦虑</text>
+<text x="900" y="448" text-anchor="end" font-size="12" fill="#666666" font-weight="normal">时间 / 重复暴露</text>
+<path d="M 0 420 L 100 420 L 150 210 L 210 325.5 L 250 420 L 250 420 L 300 240 L 360 339.0 L 400 420 L 400 420 L 450 270 L 510 352.5 L 550 420 L 550 420 L 600 295 L 660 363.75 L 700 420 L 700 420 L 750 315 L 810 372.75 L 850 420" fill="none" stroke="#c62828" stroke-width="2.2"/>
+<line x1="150" y1="420" x2="150" y2="210" stroke="#666666" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="156" y="204" text-anchor="start" font-size="10" fill="#666666" font-weight="normal">第1次</text>
+<line x1="300" y1="420" x2="300" y2="240" stroke="#666666" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="306" y="234" text-anchor="start" font-size="10" fill="#666666" font-weight="normal">第2次</text>
+<line x1="450" y1="420" x2="450" y2="270" stroke="#666666" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="456" y="264" text-anchor="start" font-size="10" fill="#666666" font-weight="normal">第3次</text>
+<line x1="600" y1="420" x2="600" y2="295" stroke="#666666" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="606" y="289" text-anchor="start" font-size="10" fill="#666666" font-weight="normal">第4次</text>
+<line x1="750" y1="420" x2="750" y2="315" stroke="#666666" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="756" y="309" text-anchor="start" font-size="10" fill="#666666" font-weight="normal">第5次</text>
+<text x="500" y="500" text-anchor="middle" font-size="13" fill="#666666" font-weight="normal">关键不是“待得够久”，而是“预期被违反”；安全行为会让违反失效。</text>
+</svg>

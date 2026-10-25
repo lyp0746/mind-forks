@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="1000" height="620" font-family="Microsoft YaHei, PingFang SC, SimHei, sans-serif">
+<rect width="1000" height="620" fill="#ffffff"/>
+<text x="500" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">心理学诞生前的两条谱系</text>
+<text x="500" y="62" text-anchor="middle" font-size="14" fill="#666666">哲学给出问题，生理学给出方法；两条线在 1879 年汇合</text>
+<defs><marker id="ah" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"
+markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 z" fill="#666666"/></marker></defs>
+<rect x="70" y="100" width="340" height="380" rx="8" fill="#f7f9fc" stroke="#2f6db0" stroke-width="1.4"/>
+<text x="240" y="132" text-anchor="middle" font-size="17" fill="#2f6db0" font-weight="bold">哲学谱系：问“心是什么”</text>
+<text x="240" y="172" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">柏拉图：三分灵魂</text>
+<text x="240" y="222" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">亚里士多德：灵魂是形式</text>
+<text x="240" y="272" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">笛卡尔：心身二元</text>
+<text x="240" y="322" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">洛克：白板与联想</text>
+<text x="240" y="372" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">莱布尼茨：微知觉</text>
+<text x="240" y="422" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">康德：先天形式与现象</text>
+<rect x="590" y="100" width="340" height="380" rx="8" fill="#f7fbf8" stroke="#2e7d32" stroke-width="1.4"/>
+<text x="760" y="132" text-anchor="middle" font-size="17" fill="#2e7d32" font-weight="bold">生理学谱系：问“心如何工作”</text>
+<text x="760" y="172" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">布洛卡：脑区与语言</text>
+<text x="760" y="222" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">亥姆霍兹：神经传导速度</text>
+<text x="760" y="272" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">费希纳：心理物理学</text>
+<text x="760" y="322" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">赫尔巴特：意识阈</text>
+<text x="760" y="372" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">达尔文：适应与进化</text>
+<text x="760" y="422" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">反射学：刺激—反应</text>
+<line x1="410" y1="290" x2="480" y2="350" stroke="#2f6db0" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="590" y1="290" x2="520" y2="350" stroke="#2e7d32" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="330" y="360" width="340" height="110" rx="10" fill="#fff8e1" stroke="#b8862f" stroke-width="1.8"/>
+<text x="500" y="396" text-anchor="middle" font-size="19" fill="#b8862f" font-weight="bold">1879　心理学实验室</text>
+<text x="500" y="424" text-anchor="middle" font-size="13" fill="#1a1a1a" font-weight="normal">可测量的对象 + 可公共重复的实验</text>
+<text x="500" y="448" text-anchor="middle" font-size="13" fill="#666666" font-weight="normal">＝ 心理学成为一门建制学科</text>
+<text x="500" y="540" text-anchor="middle" font-size="12" fill="#666666" font-weight="normal">注：这是一条主线，不是唯一路径；冯特本人仍把高层思维留给民族心理学。</text>
+</svg>

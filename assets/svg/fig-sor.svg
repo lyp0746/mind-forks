@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" width="1000" height="520" font-family="Microsoft YaHei, PingFang SC, SimHei, sans-serif">
+<rect width="1000" height="520" fill="#ffffff"/>
+<text x="500" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">从 S—R 到 S—O—R：内部状态被划回来</text>
+<text x="500" y="62" text-anchor="middle" font-size="14" fill="#666666">行为主义只看两端；认知主义在中间加了一个“黑箱”</text>
+<defs><marker id="ah" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"
+markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 z" fill="#666666"/></marker></defs>
+<text x="80" y="120" text-anchor="start" font-size="17" fill="#ef6c00" font-weight="bold">行为主义</text>
+<rect x="180" y="92" width="180" height="64" rx="8" fill="#fff3e0" stroke="#ef6c00" stroke-width="1.4"/>
+<text x="270" y="132" text-anchor="middle" font-size="16" fill="#1a1a1a" font-weight="normal">刺激 S</text>
+<rect x="640" y="92" width="180" height="64" rx="8" fill="#fff3e0" stroke="#ef6c00" stroke-width="1.4"/>
+<text x="730" y="132" text-anchor="middle" font-size="16" fill="#1a1a1a" font-weight="normal">反应 R</text>
+<line x1="365" y1="124" x2="635" y2="124" stroke="#ef6c00" stroke-width="2.4" marker-end="url(#ah)"/>
+<text x="500" y="112" text-anchor="middle" font-size="12" fill="#666666" font-weight="normal">强化 / 惩罚</text>
+<text x="80" y="300" text-anchor="start" font-size="17" fill="#2f6db0" font-weight="bold">认知主义</text>
+<rect x="180" y="272" width="180" height="64" rx="8" fill="#eaf2fb" stroke="#2f6db0" stroke-width="1.4"/>
+<text x="270" y="312" text-anchor="middle" font-size="16" fill="#1a1a1a" font-weight="normal">刺激 S</text>
+<rect x="410" y="272" width="180" height="64" rx="8" fill="#eaf2fb" stroke="#2f6db0" stroke-width="1.4"/>
+<text x="500" y="304" text-anchor="middle" font-size="16" fill="#1a1a1a" font-weight="normal">内部 O</text>
+<text x="500" y="324" text-anchor="middle" font-size="11" fill="#666666" font-weight="normal">表征 / 加工</text>
+<rect x="640" y="272" width="180" height="64" rx="8" fill="#eaf2fb" stroke="#2f6db0" stroke-width="1.4"/>
+<text x="730" y="312" text-anchor="middle" font-size="16" fill="#1a1a1a" font-weight="normal">反应 R</text>
+<line x1="365" y1="304" x2="405" y2="304" stroke="#2f6db0" stroke-width="2.2" marker-end="url(#ah)"/>
+<line x1="595" y1="304" x2="635" y2="304" stroke="#2f6db0" stroke-width="2.2" marker-end="url(#ah)"/>
+<text x="500" y="430" text-anchor="middle" font-size="13" fill="#666666" font-weight="normal">S—O—R 不是“多了一个盒子”，而是“多了一个必须被推断的过程”。</text>
+</svg>

@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below. 若使用本作，请按下述格式引用。"
+type: book
+title: "心灵的分岔：从无意识到可观察——心理学流派的六次划线 / The Forking Mind: Six Ways Psychology Drew Its Lines"
+abstract: >-
+  本书用“看见、记住、跟上、选择、讲述、临界”六个提问，重读心理学一百五十年的流派史。它不判断谁对谁错，只问：这个流派把什么划进“心理”、把什么划到外面；它记住了什么、忘了什么；它用哪一个钟；它在紧预算下保了哪两项、让出了哪一项；谁有资格说它“科学”；它的门槛是观察到的还是被规定的。全书六部分二十五章：从柏拉图、笛卡尔、冯特、詹姆斯、弗洛伊德、荣格、克莱因、鲍尔比、拉康、华生、斯金纳、皮亚杰、乔姆斯基、马斯洛、罗杰斯、弗兰克尔、维果茨基、贝特森，到 DSM、CBT、正念、复现危机、WEIRD 与本土心理学；每章以一个人物或争议开场，以一句“它让出了什么”收束。附录 A—Q 提供流派×六核对照表、一百五十年时间线、术语表、一百个人名、被埋没与重新发现的清单、可证伪登记簿、数据缺口、分支地图、精神病理学的另一条线、被主流漏掉的传统、中国心理学一百年、二十种疗法对照、心理学与 AI、常见误解与练习册、十个实验/十次复现/方法手册、二十对易混概念。本书是科普专著，不提供临床建议，不裁判疗效；所有结论标注 A/B/C 证据等级，结论强度不超过证据强度。
+  Abstract (English). This is a popular-science monograph that rereads 150 years of psychology through six questions: seeing (what is drawn into "the mental"), remembering (what is remembered, forgotten, and why), keeping up (which clock is used), choosing (which two of completeness, composability, and transfer are kept), telling (who has the authority to call it science), and criticality (whether a threshold is observed or stipulated). In six parts and twenty-five chapters it moves from Plato, Descartes, Wundt, James, Freud, Jung, Klein, Bowlby, Lacan, Watson, Skinner, Piaget, Chomsky, Maslow, Rogers, Frankl, Vygotsky, and Bateson to DSM, CBT, mindfulness, the replication crisis, WEIRD samples, and indigenous psychologies. Each chapter opens with a person or controversy and closes with one sentence on what the school gave up. Appendices A–Q supply a school-by-core table, a 150-year timeline, a glossary, one hundred names, a register of buried-and-recovered ideas, a falsifiability ledger, data gaps, a map of subfields, a second line in psychopathology, marginalized traditions, a century of Chinese psychology, twenty therapies compared, psychology and AI, common misconceptions and exercises, ten experiments / ten replications / a methods handbook, and twenty confusable concept pairs. It is a popular-science monograph: it offers no clinical advice and does not adjudicate efficacy; every claim carries an A/B/C evidence grade, and no conclusion is stronger than its evidence.
+authors:
+  - family-names: "李"
+    given-names: "毅芃"
+    alias: "Li Yipeng"
+    email: "1610369302@qq.com"
+    affiliation: "独立研究者 / Independent Researcher"
+date-released: "2026-10-25"
+license: CC-BY-4.0
+repository-code: "https://github.com/lyp0746/mind-forks"
+url: "https://github.com/lyp0746/mind-forks"
+keywords:
+  - "心理学史"
+  - "精神分析"
+  - "行为主义"
+  - "认知革命"
+  - "人本主义"
+  - "六个核心"
+  - "流派"
+  - "划线"
+  - "置信度"
+  - "临界"
+  - "科普"
+  - "语言：中文（含英文摘要）"
+  - "Language: Chinese (with English abstract)"
+identifiers:
+  - type: url
+    value: "https://github.com/lyp0746/mind-forks"
+    description: "源码、可复现脚本与构建流程"
+references:
+  - type: book
+    title: "错位的时间：为什么我们总是来不及——社会系统的时间错配与可控性边界 / Desynchronized Time: Why We Are Always Too Late — Temporal Mismatch and the Boundary of Controllability in Social Systems"
+    doi: 10.5281/zenodo.23286403
+  - type: book
+    title: "遗忘的边界：有限容量下的记忆、智能与自我 / The Boundary of Forgetting: Memory, Intelligence, and the Self under Finite Capacity"
+    doi: 10.5281/zenodo.23323277
+  - type: book
+    title: "区分的语法：五个领域，同一个二次型 / The Grammar of Distinction: Five Domains, One Quadratic Form"
+    doi: 10.5281/zenodo.23412033
+  - type: book
+    title: "选择的代价：完备、可组合与可传递的三维权衡——复杂知识系统如何形成、演化与更新 / The Price of Choice: The Impossibility Triangle of Completeness, Composability, and Transfer"
+    doi: 10.5281/zenodo.23388628
+  - type: book
+    title: "诠释的权衡：历史研究中的置信度、权衡与理论流变——从人物还原到范式转移的五个应用 / The Tradeoffs of Interpretation: Confidence, Trade-offs, and Theoretical Change in Historical Research — Five Applications from Restoring Persons to Paradigm Shifts"
+    doi: 10.5281/zenodo.23416220
+  - type: book
+    title: "涌现的临界：为什么有些变化回不去——临界、涌现与形式化的边界 / The Criticality of Emergence: Why Some Changes Cannot Be Undone — Criticality, Emergence, and the Limits of Formalization"
+    doi: 10.5281/zenodo.23447311
+  - type: book
+    title: "只能选两样：从来不及、会忘记到说不清——六个核心，看懂复杂世界的取舍 / Pick Two: Six Ideas for Understanding a Complicated World"
+    url: "https://github.com/lyp0746/knowledge-tradeoffs"
+  - type: book
+    title: "热点的账单：用六个核心，诊断过去一年的热搜与争论 / The Bill of Hotspots"
+    url: "https://github.com/lyp0746/hotspot-bills"

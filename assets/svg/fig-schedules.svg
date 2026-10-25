@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" width="1000" height="640" font-family="Microsoft YaHei, PingFang SC, SimHei, sans-serif">
+<rect width="1000" height="640" fill="#ffffff"/>
+<text x="500" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">四种强化程序：为什么老虎机比工资更会留住人</text>
+<text x="500" y="62" text-anchor="middle" font-size="14" fill="#666666">曲线越高越陡，行为越频繁；可变比率的消退最慢</text>
+<defs><marker id="ah" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"
+markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 z" fill="#666666"/></marker></defs>
+<rect x="50" y="100" width="420" height="200" rx="8" fill="#fbfcfe" stroke="#2f6db0" stroke-width="1.4"/>
+<text x="68" y="130" text-anchor="start" font-size="16" fill="#2f6db0" font-weight="bold">固定比率 FR</text>
+<text x="68" y="154" text-anchor="start" font-size="11" fill="#666666" font-weight="normal">每 N 次给一次　例：计件工资</text>
+<line x1="90" y1="270" x2="430" y2="270" stroke="#666666" stroke-width="1.2"/>
+<line x1="90" y1="270" x2="90" y2="170" stroke="#666666" stroke-width="1.2"/>
+<path d="M 90 270 L 138 266 L 138 254 L 186 250 L 186 238 L 234 234 L 234 222 L 282 218 L 282 206 L 330 202 L 330 190 L 378 186 L 378 174 L 430 174" fill="none" stroke="#2f6db0" stroke-width="2.2"/>
+<rect x="530" y="100" width="420" height="200" rx="8" fill="#fbfcfe" stroke="#c62828" stroke-width="1.4"/>
+<text x="548" y="130" text-anchor="start" font-size="16" fill="#c62828" font-weight="bold">可变比率 VR</text>
+<text x="548" y="154" text-anchor="start" font-size="11" fill="#666666" font-weight="normal">平均 N 次，不确定　例：老虎机 / 抽卡</text>
+<line x1="570" y1="270" x2="910" y2="270" stroke="#666666" stroke-width="1.2"/>
+<line x1="570" y1="270" x2="570" y2="170" stroke="#666666" stroke-width="1.2"/>
+<path d="M 570 270 L 600 256 L 640 234 L 680 230 L 720 208 L 770 202 L 820 186 L 870 180 L 910 172" fill="none" stroke="#c62828" stroke-width="2.2"/>
+<rect x="50" y="350" width="420" height="200" rx="8" fill="#fbfcfe" stroke="#2e7d32" stroke-width="1.4"/>
+<text x="68" y="380" text-anchor="start" font-size="16" fill="#2e7d32" font-weight="bold">固定间隔 FI</text>
+<text x="68" y="404" text-anchor="start" font-size="11" fill="#666666" font-weight="normal">每隔 T 时间给一次　例：月薪</text>
+<line x1="90" y1="520" x2="430" y2="520" stroke="#666666" stroke-width="1.2"/>
+<line x1="90" y1="520" x2="90" y2="420" stroke="#666666" stroke-width="1.2"/>
+<path d="M 90 520 L 150 498 L 175 495 L 235 473 L 260 470 L 320 448 L 345 445 L 405 423 L 430 424" fill="none" stroke="#2e7d32" stroke-width="2.2"/>
+<rect x="530" y="350" width="420" height="200" rx="8" fill="#fbfcfe" stroke="#ef6c00" stroke-width="1.4"/>
+<text x="548" y="380" text-anchor="start" font-size="16" fill="#ef6c00" font-weight="bold">可变间隔 VI</text>
+<text x="548" y="404" text-anchor="start" font-size="11" fill="#666666" font-weight="normal">平均 T 时间，不确定　例：查邮件</text>
+<line x1="570" y1="520" x2="910" y2="520" stroke="#666666" stroke-width="1.2"/>
+<line x1="570" y1="520" x2="570" y2="420" stroke="#666666" stroke-width="1.2"/>
+<path d="M 570 520 L 610 510 L 650 490 L 710 480 L 770 454 L 830 438 L 910 422" fill="none" stroke="#ef6c00" stroke-width="2.2"/>
+<text x="500" y="600" text-anchor="middle" font-size="13" fill="#666666" font-weight="normal">“消退最慢”的是可变比率：奖励不确定，行为最顽固。</text>
+</svg>

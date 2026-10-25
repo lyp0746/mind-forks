@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="1000" height="620" font-family="Microsoft YaHei, PingFang SC, SimHei, sans-serif">
+<rect width="1000" height="620" fill="#ffffff"/>
+<text x="500" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">弗洛伊德的三个模型：地形学与结构模型</text>
+<text x="500" y="62" text-anchor="middle" font-size="14" fill="#666666">意识 / 前意识 / 无意识；本我 / 自我 / 超我</text>
+<defs><marker id="ah" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"
+markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 z" fill="#666666"/></marker></defs>
+<line x1="80" y1="260" x2="920" y2="260" stroke="#2f6db0" stroke-width="2" stroke-dasharray="8,5"/>
+<text x="90" y="248" text-anchor="start" font-size="13" fill="#2f6db0" font-weight="normal">意识的水面</text>
+<rect x="220" y="100" width="560" height="50" fill="#eaf2fb" stroke="#2f6db0" stroke-width="1.2"/>
+<text x="250" y="130" text-anchor="start" font-size="16" fill="#2f6db0" font-weight="bold">意识</text>
+<rect x="220" y="250" width="560" height="270" fill="#f3f7fc" stroke="#2f6db0" stroke-width="1.2"/>
+<text x="250" y="280" text-anchor="start" font-size="16" fill="#2f6db0" font-weight="bold">前意识</text>
+<rect x="220" y="520" width="560" height="380" fill="#e8eef7" stroke="#5b7fa8" stroke-width="1.2"/>
+<text x="250" y="550" text-anchor="start" font-size="16" fill="#5b7fa8" font-weight="bold">无意识</text>
+<ellipse cx="360" cy="470" rx="90" ry="70" fill="#fdecea" stroke="#c62828" stroke-width="2"/>
+<text x="360" y="476" text-anchor="middle" font-size="17" fill="#c62828" font-weight="bold">本我</text>
+<ellipse cx="520" cy="330" rx="100" ry="60" fill="#fff8e1" stroke="#b8862f" stroke-width="2"/>
+<text x="520" y="336" text-anchor="middle" font-size="17" fill="#b8862f" font-weight="bold">自我</text>
+<ellipse cx="650" cy="440" rx="95" ry="55" fill="#f3e9f7" stroke="#8e5a9c" stroke-width="2"/>
+<text x="650" y="446" text-anchor="middle" font-size="17" fill="#8e5a9c" font-weight="bold">超我</text>
+<text x="500" y="580" text-anchor="middle" font-size="13" fill="#666666" font-weight="normal">地形学讲“在哪一层”，结构模型讲“谁和谁冲突”；两者不是替代，是两套坐标。</text>
+</svg>

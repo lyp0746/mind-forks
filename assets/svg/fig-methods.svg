@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" width="1000" height="560" font-family="Microsoft YaHei, PingFang SC, SimHei, sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="500" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">认知神经科学：方法的升级</text>
+<text x="500" y="62" text-anchor="middle" font-size="14" fill="#666666">从损伤到成像；精度、因果性与伦理各不相同</text>
+<defs><marker id="ah" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"
+markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 z" fill="#666666"/></marker></defs>
+<line x1="80" y1="300" x2="920" y2="300" stroke="#666666" stroke-width="2"/>
+<line x1="90" y1="300" x2="90" y2="230" stroke="#2f6db0" stroke-width="1.6"/>
+<circle cx="90" cy="300" r="6" fill="#2f6db0" stroke="#2f6db0" stroke-width="1.6"/>
+<text x="90" y="218" text-anchor="middle" font-size="12" fill="#2f6db0" font-weight="bold">1861</text>
+<text x="90" y="196" text-anchor="middle" font-size="12" fill="#1a1a1a" font-weight="normal">损伤研究</text>
+<text x="90" y="278" text-anchor="middle" font-size="10" fill="#666666" font-weight="normal">布洛卡</text>
+<line x1="208" y1="300" x2="208" y2="330" stroke="#2e7d32" stroke-width="1.6"/>
+<circle cx="208" cy="300" r="6" fill="#2e7d32" stroke="#2e7d32" stroke-width="1.6"/>
+<text x="208" y="360" text-anchor="middle" font-size="12" fill="#2e7d32" font-weight="bold">1924</text>
+<text x="208" y="382" text-anchor="middle" font-size="12" fill="#1a1a1a" font-weight="normal">EEG</text>
+<text x="208" y="402" text-anchor="middle" font-size="10" fill="#666666" font-weight="normal">伯格</text>
+<line x1="326" y1="300" x2="326" y2="230" stroke="#ef6c00" stroke-width="1.6"/>
+<circle cx="326" cy="300" r="6" fill="#ef6c00" stroke="#ef6c00" stroke-width="1.6"/>
+<text x="326" y="218" text-anchor="middle" font-size="12" fill="#ef6c00" font-weight="bold">1930s</text>
+<text x="326" y="196" text-anchor="middle" font-size="12" fill="#1a1a1a" font-weight="normal">电刺激</text>
+<text x="326" y="278" text-anchor="middle" font-size="10" fill="#666666" font-weight="normal">彭菲尔德</text>
+<line x1="444" y1="300" x2="444" y2="330" stroke="#8e5a9c" stroke-width="1.6"/>
+<circle cx="444" cy="300" r="6" fill="#8e5a9c" stroke="#8e5a9c" stroke-width="1.6"/>
+<text x="444" y="360" text-anchor="middle" font-size="12" fill="#8e5a9c" font-weight="bold">1950s</text>
+<text x="444" y="382" text-anchor="middle" font-size="12" fill="#1a1a1a" font-weight="normal">单细胞记录</text>
+<text x="444" y="402" text-anchor="middle" font-size="10" fill="#666666" font-weight="normal">休伯尔/维泽尔</text>
+<line x1="562" y1="300" x2="562" y2="230" stroke="#b8862f" stroke-width="1.6"/>
+<circle cx="562" cy="300" r="6" fill="#b8862f" stroke="#b8862f" stroke-width="1.6"/>
+<text x="562" y="218" text-anchor="middle" font-size="12" fill="#b8862f" font-weight="bold">1970s</text>
+<text x="562" y="196" text-anchor="middle" font-size="12" fill="#1a1a1a" font-weight="normal">PET</text>
+<text x="562" y="278" text-anchor="middle" font-size="10" fill="#666666" font-weight="normal">代谢/血流</text>
+<line x1="680" y1="300" x2="680" y2="330" stroke="#c62828" stroke-width="1.6"/>
+<circle cx="680" cy="300" r="6" fill="#c62828" stroke="#c62828" stroke-width="1.6"/>
+<text x="680" y="360" text-anchor="middle" font-size="12" fill="#c62828" font-weight="bold">1990</text>
+<text x="680" y="382" text-anchor="middle" font-size="12" fill="#1a1a1a" font-weight="normal">fMRI</text>
+<text x="680" y="402" text-anchor="middle" font-size="10" fill="#666666" font-weight="normal">BOLD</text>
+<line x1="798" y1="300" x2="798" y2="230" stroke="#5b7fa8" stroke-width="1.6"/>
+<circle cx="798" cy="300" r="6" fill="#5b7fa8" stroke="#5b7fa8" stroke-width="1.6"/>
+<text x="798" y="218" text-anchor="middle" font-size="12" fill="#5b7fa8" font-weight="bold">1985</text>
+<text x="798" y="196" text-anchor="middle" font-size="12" fill="#1a1a1a" font-weight="normal">TMS</text>
+<text x="798" y="278" text-anchor="middle" font-size="10" fill="#666666" font-weight="normal">暂时扰乱</text>
+<text x="500" y="500" text-anchor="middle" font-size="13" fill="#666666" font-weight="normal">方法越强，越要问：它测的是神经活动，还是血流？是相关，还是因果？</text>
+</svg>

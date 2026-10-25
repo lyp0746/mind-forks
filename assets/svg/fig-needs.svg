@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" width="1000" height="560" font-family="Microsoft YaHei, PingFang SC, SimHei, sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="500" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">需求层次：不是金字塔，是“优势性”</text>
+<text x="500" y="62" text-anchor="middle" font-size="14" fill="#666666">低层长期匮乏时占优势；满足后，高层才更容易浮现（统计性，非铁律）</text>
+<defs><marker id="ah" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"
+markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 z" fill="#666666"/></marker></defs>
+<rect x="367.0" y="110" width="266.0" height="60" rx="8" fill="#fbfcfe" stroke="#b8862f" stroke-width="1.4"/>
+<text x="500" y="136" text-anchor="middle" font-size="15" fill="#b8862f" font-weight="bold">自我实现</text>
+<text x="500" y="157" text-anchor="middle" font-size="11" fill="#666666" font-weight="normal">成为自己能成为的样子</text>
+<rect x="317.6" y="188" width="364.8" height="60" rx="8" fill="#fbfcfe" stroke="#8e5a9c" stroke-width="1.4"/>
+<text x="500" y="214" text-anchor="middle" font-size="15" fill="#8e5a9c" font-weight="bold">尊重</text>
+<text x="500" y="235" text-anchor="middle" font-size="11" fill="#666666" font-weight="normal">被看见、被认可、有能力</text>
+<rect x="268.20000000000005" y="266" width="463.59999999999997" height="60" rx="8" fill="#fbfcfe" stroke="#2e7d32" stroke-width="1.4"/>
+<text x="500" y="292" text-anchor="middle" font-size="15" fill="#2e7d32" font-weight="bold">归属与爱</text>
+<text x="500" y="313" text-anchor="middle" font-size="11" fill="#666666" font-weight="normal">关系、群体、被接纳</text>
+<rect x="218.8" y="344" width="562.4" height="60" rx="8" fill="#fbfcfe" stroke="#2f6db0" stroke-width="1.4"/>
+<text x="500" y="370" text-anchor="middle" font-size="15" fill="#2f6db0" font-weight="bold">安全</text>
+<text x="500" y="391" text-anchor="middle" font-size="11" fill="#666666" font-weight="normal">稳定、可预测、免受威胁</text>
+<rect x="169.39999999999998" y="422" width="661.2" height="60" rx="8" fill="#fbfcfe" stroke="#ef6c00" stroke-width="1.4"/>
+<text x="500" y="448" text-anchor="middle" font-size="15" fill="#ef6c00" font-weight="bold">生理</text>
+<text x="500" y="469" text-anchor="middle" font-size="11" fill="#666666" font-weight="normal">食物、睡眠、住所、健康</text>
+<text x="500" y="530" text-anchor="middle" font-size="12" fill="#666666" font-weight="normal">注：金字塔图形是后来的管理学教材加的，马斯洛本人没有用过。</text>
+</svg>

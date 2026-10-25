@@ -1,0 +1,990 @@
+source\appendix_a.html	文化	s="l">可观察、可重复、跨文化</td><td class=
+source\appendix_a.html	文化	><td class="l">文化理论、电影、女性主义</td>
+source\appendix_a.html	文化	">当代（CBT/正念/积极/文化/进化）</td><td cl
+source\appendix_a.html	文化	">过程导向、去殖民化、基因—文化共演化</td></tr> <
+source\appendix_a.html	方法	><td class="l">方法、操作定义、环境设计</td>
+source\appendix_a.html	方法	><td class="l">方法论严格性</td><td cl
+source\appendix_a.html	研究	d class="l">意义感研究、TMT、安宁疗护</td><
+source\appendix_b.html	研究	l">布罗伊尔与弗洛伊德《癔症研究》；弗洛伊德《科学心理学大纲》
+source\appendix_b.html	研究	ass="l">推孟“天才遗传研究”启动；中华心理学会成立</t
+source\appendix_b.html	研究	="l">布鲁纳在哈佛建立认知研究中心</td><td clas
+source\appendix_b.html	研究	ss="l">罗森汉“假病人”研究</td><td class=
+source\appendix_b.html	研究	曼积极心理学；费利蒂 ACE 研究</td><td class=
+source\appendix_b.html	研究	l">开放科学合作组织百项复现研究</td><td class=
+source\appendix_b.html	研究	勒泰西耶对斯坦福监狱实验的档案研究；ICD-11 通过</td>
+source\appendix_c.html	文化	lass="l">死亡意识通过文化世界观与自尊来缓冲</td><
+source\appendix_c.html	文化	><td class="l">文化心理学 cultural ps
+source\appendix_c.html	文化	ass="l">心理过程本身在文化中形成，而非普遍+表现不同</
+source\appendix_c.html	文化	d class="l">从当地文化、语言、实践中生长出来的心理学
+source\appendix_c.html	文化	d class="l">基因—文化共演化</td><td cla
+source\appendix_c.html	文化	d class="l">基因与文化互相塑造</td><td cl
+source\appendix_c.html	方法	自己的直接经验；构造主义的主要方法</td><td class=
+source\appendix_c.html	研究	ss="l">詹姆斯、杜威等：研究心理“有什么用”，而非“由什么
+source\appendix_c.html	研究	大量已发表的心理学家效应在重复研究中未能重现</td><td c
+source\appendix_c.html	研究	<td class="l">在研究前公开假设、样本与分析计划</
+source\appendix_c.html	世界	勒：童年形成的关于自己、他人、世界的核心信念</td><td c
+source\appendix_c.html	世界	ass="l">照顾者作为探索世界的出发点</td><td cl
+source\appendix_c.html	世界	="l">贝克：抑郁者对自我、世界、未来的负面看法</td><t
+source\appendix_c.html	世界	ss="l">死亡意识通过文化世界观与自尊来缓冲</td><td
+source\appendix_d.html	治療	ass="l">“安娜·O”的治療者；谈话疗法的起点</td><
+source\appendix_d.html	文化	s="l">最近发展区、内化、文化工具；发展在关系里</td><
+source\appendix_d.html	文化	ass="l">神经心理学；与文化—历史学派合作</td></t
+source\appendix_d.html	文化	s="l">WEIRD 批评；文化与认知</td></tr> <
+source\appendix_d.html	研究	s="l">机能心理学的范围：研究心理的用途与适应</td></
+source\appendix_d.html	研究	f(P,E)；群体动力学与行动研究</td></tr> <tr>
+source\appendix_d.html	研究	神分析的主要推动者；梦与脑损伤研究</td></tr> <tr>
+source\appendix_d.html	研究	坦福—比奈、比率智商；天才追踪研究；优生学支持者</td></t
+source\appendix_d.html	研究	>条件反射、第二信号系统；客观研究</td></tr> <tr>
+source\appendix_d.html	研究	ass="l">概念形成、认知研究中心；后来转向叙事与教育</t
+source\appendix_d.html	研究	">静止脸实验；母婴互动的实时研究</td></tr> <tr>
+source\appendix_d.html	研究	class="l">“假病人”研究；诊断标签的力量</td></
+source\appendix_d.html	研究	 class="l">ACE 研究；童年逆境与健康</td></
+source\appendix_e.html	文化	l">回：记忆是重建；丢：社会文化语境</td><td clas
+source\appendix_e.html	文化	抚物与安全基地；丢：潜在空间的文化含义</td><td clas
+source\appendix_e.html	文化	"l">回：关系中的发展；丢：文化—历史整体</td><td c
+source\appendix_e.html	文化	ss="l">正念、第三波、跨文化</td><td class=
+source\appendix_e.html	文化	><td class="l">文化心理学、跨文化</td><td
+source\appendix_e.html	文化	ass="l">文化心理学、跨文化</td><td class=
+source\appendix_e.html	文化	果能，它是科学；如果不能，它是文化。</li> <li><b>损
+source\appendix_e.html	方法	指向性、意义；丢：描述心理学的方法</td><td class=
+source\appendix_e.html	方法	判据：</b>有没有新的工具/方法/制度能接住原来的问题？如果没
+source\appendix_e.html	研究	ss="l">心智化、情绪传染研究</td><td class=
+source\appendix_e.html	研究	td class="l">婴儿研究、核心知识</td><td c
+source\appendix_e.html	研究	d class="l">意义感研究、安宁疗护</td><td c
+source\appendix_e.html	研究	td class="l">中年研究、McAdams</td><t
+source\appendix_e.html	研究	ass="l">社会工作、质性研究</td><td class=
+source\appendix_e.html	世界	td class="l">英语世界忽视</td><td clas
+source\appendix_f.html	文化	<td class="l">跨文化研究显示所有心理现象都无差异<
+source\appendix_f.html	文化	<td class="l">跨文化元分析</td><td cla
+source\appendix_f.html	方法	 class="l">出现一种方法，能从激活唯一反推过程</td
+source\appendix_f.html	方法	><td class="l">方法学研究、反向推理文献</td>
+source\appendix_f.html	方法	class="l">支持（A，方法学）</td></tr> <t
+source\appendix_f.html	研究	td class="l">纵向研究显示零相关，或相关接近 1</
+source\appendix_f.html	研究	"l">语言、视觉、依恋的纵向研究</td><td class=
+source\appendix_f.html	研究	d class="l">方法学研究、反向推理文献</td><td
+source\appendix_f.html	研究	ss="l">行为遗传学、教育研究</td><td class=
+source\appendix_f.html	研究	d class="l">跨文化研究显示所有心理现象都无差异</t
+source\appendix_f.html	研究	。</li> <li><b>当研究清单：</b>你想做一个心理学
+source\appendix_f.html	研究	你想做一个心理学史或科学哲学的研究，F3、F4、F5 是可以被检
+source\appendix_g.html	文化	><td class="l">文化心理学、本土心理学、区域心理学
+source\appendix_g.html	研究	="l">女性主义心理学、残障研究、酷儿理论</td></tr>
+source\appendix_g.html	研究	l">学科史、科学社会学、档案研究</td></tr> <tr>
+source\appendix_g.html	研究	l">科学哲学、范式理论、比较研究</td></tr> </ta
+source\appendix_g.html	研究	是为中文读者写的；它引用的中文研究（中国心理学早期、本土心理学）
+source\appendix_g.html	研究	时。</b>心理学每年产生大量研究，诊断标准会修订，复现危机会继
+source\appendix_h.html	文化	>——把心理学放回社会、政治、文化里，弥补本书“制度史”的缺口。
+source\appendix_h.html	文化	8）</b>——ZPD、内化、文化工具，教育心理学的必读。<i>
+source\appendix_h.html	文化	ass="l">ZPD、内化、文化工具</td></tr> <t
+source\appendix_h.html	方法	/b>——把心理学史写成“研究方法与制度如何塑造研究对象”的历史
+source\appendix_h.html	方法	/b>——陌生情境的原始报告，方法细节值得读。<i>再往里走。<
+source\appendix_h.html	方法	</ul>  <h3>H.5　方法与批判</h3> <ul> <
+source\appendix_h.html	方法	le”（1990）</b>——方法学的硬核批评。<i>再往里走。
+source\appendix_h.html	方法	><td class="l">方法如何塑造研究对象</td></
+source\appendix_h.html	方法	><td class="l">方法与复现</td><td cla
+source\appendix_h.html	研究	）</b>——把心理学史写成“研究方法与制度如何塑造研究对象”的
+source\appendix_h.html	研究	史写成“研究方法与制度如何塑造研究对象”的历史，与本书的“划线”
+source\appendix_h.html	研究	ud 原始文本</b>：《癔症研究》《梦的解析》《日常生活的心理
+source\appendix_h.html	研究	i><b>杨国枢等《本土心理学研究》系列</b>——关系主义、面
+source\appendix_h.html	研究	——关系主义、面子、人情的系统研究。<i>再往里走。</i></
+source\appendix_h.html	研究	志》</b>——想看中国当下的研究，从这些期刊的综述开始。<i>
+source\appendix_h.html	研究	sycNet</b>——查具体研究；注意区分“原始研究”与“综述
+source\appendix_h.html	研究	——查具体研究；注意区分“原始研究”与“综述/新闻”。<i>再往
+source\appendix_h.html	研究	lass="l">方法如何塑造研究对象</td></tr> <t
+source\appendix_h.html	研究	td class="l">容量研究的起点</td></tr> <
+source\appendix_h.html	研究	class="l">本土心理学研究（系列）</td><td cl
+source\appendix_h.html	世界	0）</b>——老派但仍是英语世界实验心理学史的经典。缺点是“伟
+source\appendix_i.html	文化	d class="l">语言、文化</td></tr> <tr>
+source\appendix_i.html	文化	><td class="l">文化心理学</td><td cla
+source\appendix_i.html	文化	ass="l">心理过程如何在文化中形成</td><td cla
+source\appendix_i.html	文化	<td class="l">跨文化比较、民族志</td><td 
+source\appendix_i.html	文化	class="l">连续分布、文化差异</td></tr> <t
+source\appendix_i.html	文化	d class="l">情感、文化</td></tr> <tr>
+source\appendix_i.html	文化	><td class="l">文化、制度</td></tr> <
+source\appendix_i.html	文化	危机。</p>  <p><b>文化心理学</b>研究心理过程如何
+source\appendix_i.html	文化	理学</b>研究心理过程如何在文化中形成（第 24 章）。它的核
+source\appendix_i.html	文化	究招聘、培训、绩效、领导、组织文化。它是最“靠近权力”的分支：它
+source\appendix_i.html	文化	经科学家研究奖赏回路，可能不读文化心理学关于“快乐”的不同定义；
+source\appendix_i.html	方法	分支是“研究哪一块心理、用什么方法、为谁服务”。这一页给一张地图
+source\appendix_i.html	方法	员。</li> <li><b>方法的专业化：</b>不同的方法需
+source\appendix_i.html	方法	>方法的专业化：</b>不同的方法需要不同的训练——脑成像、量表
+source\appendix_i.html	方法	 I.1　二十四个分支：问题、方法、让出</b></captio
+source\appendix_i.html	方法	th class="l">主要方法</th><th class=
+source\appendix_i.html	方法	标准；“让出了什么”指该分支的方法论主焦点，不是其全部工作。等级
+source\appendix_i.html	方法	，还要问三个问题：<b>①它的方法让它看不见什么？②它的支付者希
+source\appendix_i.html	研究	流派是“怎么看心理”，分支是“研究哪一块心理、用什么方法、为谁服
+source\appendix_i.html	研究	b>心理太复杂，只能先切一块来研究——儿童、群体、病人、员工、运
+source\appendix_i.html	研究	class="l">参与式行动研究</td><td class=
+source\appendix_i.html	研究	td class="l">现场研究、模拟</td><td cla
+source\appendix_i.html	研究	ass="l">模拟陪审、目击研究</td><td class=
+source\appendix_i.html	研究	logy）是心理学的“总论”，研究知觉、注意、记忆、思维、情绪、
+source\appendix_i.html	研究	生理心理学与神经心理学</b>研究心理过程的生理基础。前者偏重正
+source\appendix_i.html	研究	<p><b>比较心理学</b>研究动物的行为与认知，用动物模型推
+source\appendix_i.html	研究	学</b>把心理写成信息加工，研究注意、记忆、语言、问题解决。它
+source\appendix_i.html	研究	<p><b>人格心理学</b>研究稳定的个体差异：特质、动机、自
+source\appendix_i.html	研究	叙事。它用因素分析、量表、纵向研究，得出了“大五”这样相对稳定的
+source\appendix_i.html	研究	<p><b>发展心理学</b>研究一生中的变化（第 22 章）。
+source\appendix_i.html	研究	度量衡”（第 11 章）。它不研究某个具体心理过程，而研究“如何
+source\appendix_i.html	研究	。它不研究某个具体心理过程，而研究“如何可靠有效地测量心理”。它
+source\appendix_i.html	研究	<p><b>社会心理学</b>研究他人、群体、情境如何影响人的行
+source\appendix_i.html	研究	<p><b>文化心理学</b>研究心理过程如何在文化中形成（第 
+source\appendix_i.html	研究	区，强调预防、赋权、参与式行动研究。它让出了“实验室控制”，换来
+source\appendix_i.html	研究	<p><b>环境心理学</b>研究环境（空间、噪音、密度、自然）
+source\appendix_i.html	研究	<b>法律与犯罪心理学</b>研究目击记忆、审讯、陪审团决策、风
+source\appendix_i.html	研究	<p><b>教育心理学</b>研究学习、教学、动机、评估。它继承
+source\appendix_i.html	研究	与组织心理学</b>（I/O）研究招聘、培训、绩效、领导、组织文
+source\appendix_i.html	研究	<p><b>健康心理学</b>研究心理因素与身体健康（压力、依从
+source\appendix_i.html	研究	<p><b>运动心理学</b>研究表现、动机、压力管理、团队凝聚
+source\appendix_i.html	研究	<b>消费与决策心理学</b>研究偏好、说服、选择架构。它是行为
+source\appendix_i.html	研究	<b>工程/人因心理学</b>研究人与机器、界面、任务的匹配。它
+source\appendix_i.html	研究	济学</b>用脑成像与博弈实验研究决策。它把“理性/非理性”的争
+source\appendix_i.html	研究	<p><b>积极心理学</b>研究幸福、优势、意义（第 24 章
+source\appendix_i.html	研究	p>  <p>一个发展心理学家研究儿童的记忆，可能不读社会心理学
+source\appendix_i.html	研究	，可能不读社会心理学关于情境的研究；一个神经科学家研究奖赏回路，
+source\appendix_i.html	研究	关于情境的研究；一个神经科学家研究奖赏回路，可能不读文化心理学关
+source\appendix_i.html	研究	。企业资助的组织心理学，更可能研究“如何提高绩效”，而不是“如何
+source\appendix_i.html	研究	剥削”；军队资助的测验，更可能研究“如何筛选”，而不是“如何培养
+source\appendix_i.html	研究	”；药厂资助的临床试验，更可能研究“药物 vs 安慰剂”，而不是
+source\appendix_i.html	研究	 vs 药物”。<b>这不是说研究者不诚实，而是说：谁付钱，谁就
+source\appendix_i.html	研究	所以，读分支地图时，除了问“它研究什么”，还要问三个问题：<b>
+source\appendix_i.html	研究	难以整合。看一个分支，既要看它研究什么，也要看它让出了什么、谁在
+source\appendix_i.html	世界	出了“实验室控制”，换来“真实世界的影响力”。</p>  <p>
+source\appendix_j.html	方法	。</p>  <p>克雷佩林的方法，是<b>纵向观察</b>：不
+source\appendix_j.html	方法	他的分类野心，却丢掉了他的纵向方法。</b>这是精神病理学的一笔
+source\appendix_j.html	方法	、身体、自我），再谈病因。这个方法论，与胡塞尔的现象学有亲缘关系
+source\appendix_j.html	方法	研究后来也受到了批评：样本小、方法不透明、数据有争议；2019 
+source\appendix_j.html	研究	让精神医学有了可比较的分类，让研究可以积累；另一方面，他的分类假
+source\appendix_j.html	研究	比如对精神分裂症“自我障碍”的研究），但它很难被写进 DSM，因
+source\appendix_j.html	研究	会被这个标签解释。</b>这个研究对 DSM 的改革有推动作用，
+source\appendix_j.html	研究	。</p>  <p>但罗森汉的研究后来也受到了批评：样本小、方法
+source\appendix_j.html	研究	明、数据有争议；2019 年有研究者指出，部分医院的收治可能并非
+source\appendix_j.html	研究	见，但提醒我们：<b>连“标签研究”本身，也可能被标签化。</b
+source\appendix_j.html	研究	class="l">可比较、可研究、可支付</td><td cl
+source\appendix_j.html	世界	伊勒创造的一个词，指退缩到内在世界）。他还区分了“基本症状”与“
+source\appendix_j.html	世界	不急着分类，而是先描述“病人的世界是什么样子”。这条线在今天仍然
+source\appendix_j.html	世界	的共同点，是<b>“自我”与“世界”的边界出了问题</b>：思想
+source\appendix_j.html	世界	觉，于是用一种“假自我”来应付世界；精神分裂症，是这种“假自我”
+source\appendix_j.html	世界	d class="l">病人的世界是什么样子？</td><td 
+source\appendix_k.html	文化	“独立自我”，它的诊断标准带着文化偏见。去殖民心理学主张：<b>
+source\appendix_k.html	文化	>K.5　本土心理学：从自己的文化里长出来</h3>  <p>本
+source\appendix_k.html	文化	翻译成本地语言”，而是“从本地文化、语言、实践中生长出理论”。<
+source\appendix_k.html	文化	得可疑；它的风险，是容易滑向“文化本质主义”：把“中国人”“日本
+source\appendix_k.html	文化	>好的本土心理学，不是“用本地文化证明自己”，而是“用本地经验检
+source\appendix_k.html	文化	是自然的、固定的，而是在历史、文化、权力中被建构的。它研究“少数
+source\appendix_k.html	文化	><td class="l">文化中的自我与关系</td><td
+source\appendix_k.html	文化	<td class="l">跨文化可比性、本质主义风险</td>
+source\appendix_k.html	方法	：心理学不是中立的，它的范畴、方法、样本都带着权力关系。</li
+source\appendix_k.html	方法	席。</li> <li><b>方法论反思</b>：谁在研究谁？谁
+source\appendix_k.html	方法	</p>  <p>解放心理学的方法，是“<b>参与式行动研究</
+source\appendix_k.html	方法	成一种可描述的现象，用现象学的方法研究它，用临床的框架评估它的风
+source\appendix_k.html	研究	overman）与同事做了一项研究：让临床心理学家、精神科医生、
+source\appendix_k.html	研究	</b></p>  <p>这个研究揭示了一个结构性问题：<b>心
+source\appendix_k.html	研究	</li> <li><b>重新研究“被忽略的经验”</b>：照护
+source\appendix_k.html	研究	、性暴力、母职，这些经验在主流研究里长期缺席。</li> <li
+source\appendix_k.html	研究	<b>方法论反思</b>：谁在研究谁？谁从研究中获益？被研究者有
+source\appendix_k.html	研究	反思</b>：谁在研究谁？谁从研究中获益？被研究者有没有声音？<
+source\appendix_k.html	研究	谁在研究谁？谁从研究中获益？被研究者有没有声音？</li> <l
+source\appendix_k.html	研究	面临批评：它有时被简化成“女性研究”，有时被指责为“政治化”。但
+source\appendix_k.html	研究	of the subject）研究：人不是被环境刺激的客体，而是
+source\appendix_k.html	研究	“元批判”：批评很多，可操作的研究很少。<b>但它的核心问题是对
+source\appendix_k.html	研究	、心理学家，在萨尔瓦多内战期间研究“<b>社会暴力</b>”与“
+source\appendix_k.html	研究	学的方法，是“<b>参与式行动研究</b>”：研究者不是外部的专
+source\appendix_k.html	研究	b>参与式行动研究</b>”：研究者不是外部的专家，而是与社区一
+source\appendix_k.html	研究	部的专家，而是与社区一起工作；研究的目标不是“发表”，而是“改变
+source\appendix_k.html	研究	“赋权”。<b>它的风险是：当研究变成行动，它可能失去“可比较、
+source\appendix_k.html	研究	：<b>非西方的知识传统不是“研究对象”，而是“知识来源”。</
+source\appendix_k.html	研究	/p>  <h3>K.6　残障研究与神经多样性：谁有权力定义“缺
+source\appendix_k.html	研究	缺陷”</h3>  <p>残障研究（disability stu
+source\appendix_k.html	研究	一个“诊断”，被社会运动与科学研究共同推翻。</b>此前，同性恋
+source\appendix_k.html	研究	历史、文化、权力中被建构的。它研究“少数群体的压力”（minor
+source\appendix_k.html	研究	自然常数，它会随社会运动、科学研究、政治压力改变。</b>“同性
+source\appendix_k.html	研究	获后（富裕）的认知表现也不同。研究者的解释是：<b>贫困占用了“
+source\appendix_k.html	研究	期规划。</p>  <p>这个研究影响很大，也受到批评：样本小、
+source\appendix_k.html	研究	一块</h3>  <p>詹姆斯研究过宗教经验，荣格研究过炼金术与
+source\appendix_k.html	研究	p>詹姆斯研究过宗教经验，荣格研究过炼金术与神秘主义，马斯洛晚年
+source\appendix_k.html	研究	ology，1969）。这条线研究“超越自我的经验”：冥想、神秘
+source\appendix_k.html	研究	种可描述的现象，用现象学的方法研究它，用临床的框架评估它的风险。
+source\appendix_k.html	研究	 class="l">可操作的研究纲领</td></tr> <t
+source\appendix_l.html	文化	数字疗法开始出现；本土心理学、文化心理学、循证治疗受到更多关注。
+source\appendix_l.html	方法	>①以引进为主</b>，理论、方法、量表大多来自欧美；<b>②以
+source\appendix_l.html	研究	b>1929 年</b>，中央研究院心理研究所在北平成立（唐钺等
+source\appendix_l.html	研究	9 年</b>，中央研究院心理研究所在北平成立（唐钺等参与），中
+source\appendix_l.html	研究	等参与），中国有了国家级心理学研究机构。</p>  <p>这一时
+source\appendix_l.html	研究	活跃的应用领域是教育测验与儿童研究；<b>③以救亡为背景</b>
+source\appendix_l.html	研究	1 年</b>，中国科学院心理研究所成立。<b>1958 年</
+source\appendix_l.html	研究	76 年</b>，心理学教学与研究基本中断。大学心理学系停办，学
+source\appendix_l.html	研究	心理学逐步恢复：中国科学院心理研究所恢复工作，大学心理学系重建，
+source\appendix_l.html	研究	学家推动理论心理学与心理学史的研究；同时，大量西方心理学著作被译
+source\appendix_l.html	研究	td class="l">中央研究院心理研究所成立</td></
+source\appendix_l.html	研究	ass="l">中央研究院心理研究所成立</td></tr> <
+source\appendix_l.html	研究	ass="l">中国科学院心理研究所成立</td></tr> <
+source\appendix_l.html	研究	d class="l">教学与研究中断</td></tr> <t
+source\appendix_l.html	研究	b>第二次：应用，让出了“基础研究”。</b>中国心理学的需求，
+source\appendix_l.html	研究	自教育、临床、管理、宣传；基础研究（认知、神经、发展）的积累相对
+source\appendix_l.html	研究	两者不是对立的：<b>好的本土研究，本身就是循证的一部分。</b
+source\appendix_l.html	研究	、企业、家庭；它的欠账，是基础研究、临床训练与本土理论。这两句话
+source\appendix_m.html	研究	、慢性复杂性创伤有一些支持，但研究数量少于 CBT。<b>它让出
+source\appendix_n.html	研究	<b>“智能”不再只是心理学的研究对象，它成了一个可以被工程化的
+source\appendix_n.html	研究	有没有心理</h3>  <p>研究者开始把 LLM 当成“被试”
+source\appendix_n.html	研究	><b>它会“迎合”：</b>研究发现，LLM 倾向于同意用户的
+source\appendix_n.html	研究	i> </ul>  <p>这些研究的意义，不是“AI 有没有心”
+source\appendix_o.html	文化	：<b>IQ 测量的是“在特定文化、特定测验上的表现”，不是“头
+source\appendix_o.html	文化	到了外面？（比如：意义、身体、文化、制度）</li> <li>这
+source\appendix_o.html	方法	入主流，只是换了名字；他的治疗方法（长程分析）仍然有人使用，也仍
+source\appendix_o.html	方法	 CBT，但不是零（B）。它的方法论（个案、解释）确实不符合现代
+source\appendix_o.html	方法	事”，而在于：<b>①用系统的方法检验常识；②在常识冲突时给出判
+source\appendix_o.html	研究	实的心理学，恰恰相反：<b>它研究的是“人一般如何运作”，不是“
+source\appendix_o.html	研究	>这个误解的来源，一部分是裂脑研究（第 18 章）：切断胼胝体的
+source\appendix_o.html	研究	></p>  <p>洛夫特斯的研究反复证明：提问方式、他人暗示、
+source\appendix_o.html	研究	如何关系”。</p>  <p>研究确实发现，早期依恋与后来发展有
+source\appendix_o.html	研究	的证据强度被商业宣传夸大；很多研究样本小、对照弱；它对急性抑郁、
+source\appendix_o.html	研究	/b></p>  <p>读一个研究时，至少问四件事：<b>样本多
+source\appendix_o.html	研究	h3>  <p>找一条“心理学研究表明……”的新闻，回答五个问题
+source\appendix_o.html	研究	</p>  <ol> <li>研究是实验、相关、还是综述？</l
+source\appendix_o.html	世界	念来自佛教传统，它有一套伦理与世界观。把它剥离成“减压技术”，会
+source\appendix_p.html	文化	二十分钟的 snapshot、文化差异、气质混淆。</b>（B）
+source\appendix_p.html	文化	样本上成立的结论，不一定在别的文化里成立。</b></p>  <
+source\appendix_p.html	方法	 P　十个实验、十次复现、一份方法手册</h2>  <p>这一页
+source\appendix_p.html	方法	现危机改写的发现。第三节给一份方法手册，教你怎么读一个心理学研究
+source\appendix_p.html	方法	意义，不只是“遗忘曲线”，还有方法论：<b>它第一次把记忆变成了
+source\appendix_p.html	方法	并泛化到相似刺激。</b>它的方法学问题与伦理问题，第 12 章
+source\appendix_p.html	方法	，不回应婴儿。婴儿会先尝试各种方法（微笑、发声、指、哭）唤回母亲
+source\appendix_p.html	方法	推动了 DSM 的改革，也受到方法学批评（样本小、数据争议）。<
+source\appendix_p.html	方法	></p>  <h3>P.3　方法手册：怎么读一个心理学研究</
+source\appendix_p.html	方法	3>  <p>下面是一份“最小方法手册”。它不教你做统计，只教你
+source\appendix_p.html	方法	b>直接复现</b>：用同样的方法，看能不能得到同样的结果。<b
+source\appendix_p.html	方法	b>概念复现</b>：用不同的方法，看能不能得到同样的结论。<b
+source\appendix_p.html	方法	fill</b> 是常用的检测方法。读元分析时，先看它有没有处理
+source\appendix_p.html	研究	证据附录”。前两节讲二十个具体研究：十个改变了教科书的实验，十个
+source\appendix_p.html	研究	方法手册，教你怎么读一个心理学研究。<b>它不要求你成为统计学家
+source\appendix_p.html	研究	成为统计学家，只要求你在听到“研究表明”时，多问几句。</b><
+source\appendix_p.html	研究	先快后慢”这个形状，后来被大量研究重复（A/B）。</p>  <
+source\appendix_p.html	研究	未跟随。</p>  <p>变体研究显示：群体越大（到三人左右），
+source\appendix_p.html	研究	议（第 19 章）。后来的档案研究指出：很多被试怀疑电击是假的；
+source\appendix_p.html	研究	容。</b>它开启了一个庞大的研究领域：错误记忆、目击者证词、恢
+source\appendix_p.html	研究	）它也为依恋、母婴互动、心智化研究提供了范式。</p>  <h4
+source\appendix_p.html	研究	为症状。</p>  <p>这个研究证明了“标签”的力量（第 24
+source\appendix_p.html	研究	 (2013)。等级 A（复现研究）；对具体效应的评估，B/C。
+source\appendix_p.html	研究	案例有一个共同结构：<b>原始研究样本小、效应惊人、媒体大量报道
+source\appendix_p.html	研究	小或为零。</b>这不是“原始研究造假”，而是“小样本 + 灵活
+source\appendix_p.html	研究	3　方法手册：怎么读一个心理学研究</h3>  <p>下面是一份
+source\appendix_p.html	研究	操作化</h4>  <p>一个研究，先看它把什么变成了变量。<b
+source\appendix_p.html	研究	</p>  <p>操作化决定了研究能看见什么。一个用自我报告测“
+source\appendix_p.html	研究	。一个用自我报告测“刷手机”的研究，看不见“实际刷了什么”；一个
+source\appendix_p.html	研究	什么”；一个用量表测“抑郁”的研究，看不见“这个人为什么抑郁”。
+source\appendix_p.html	研究	  <p><b>实验：</b>研究者操控自变量，随机分配，测量因
+source\appendix_p.html	研究	是“估计有多不确定”。一个好的研究报告，应该同时给出三者，而不是
+source\appendix_p.html	研究	/p>  <h4>P.3.4　研究者自由度与 p-hacking
+source\appendix_p.html	研究	cking</h4>  <p>研究者在数据分析中有很多“自由选择
+source\appendix_p.html	研究	-hacking</b>（或“研究者自由度”）。</p>  <p
+source\appendix_p.html	研究	<p><b>预注册</b>：在研究开始前，公开假设、样本、分析计
+source\appendix_p.html	研究	<p>这两个制度的目的，是把“研究者自由度”锁住，让“结果”不能
+source\appendix_p.html	研究	p><b>元分析</b>把多个研究汇总，估计平均效应。它的优势是
+source\appendix_p.html	研究	人、别的情境、别的时间？心理学研究的样本，长期以西方大学生为主（
+source\appendix_p.html	研究	。</b></p>  <p>读研究时，问：<b>样本是谁？在什么
+source\appendix_p.html	研究	y"><p><b>读一个心理学研究，问十二个问题：</b></p
+source\appendix_p.html	研究	</p> <ol> <li>它研究的问题是什么？</li> <l
+source\appendix_p.html	研究	/li> <li>谁资助了这项研究？谁从结论中获益？</li> 
+source\appendix_p.html	研究	点</b>：在转发一条“心理学研究表明”之前，先问一句“真的吗”
+source\appendix_p.html	研究	y"><p><b>一句话：一个研究的力量，不在于它有多惊人，而在
+source\appendix_q.html	研究	动地、有意识地不去想某个内容；研究里常用“想/不想”范式来测量。
+source\appendix_q.html	研究	识的控制”。</b>实验室里能研究的是抑制（比如“不要想白熊”）
+source\appendix_q.html	研究	想白熊”），不是压抑；但抑制的研究结果，常被用来“支持”压抑理论
+source\appendix_q.html	研究	功能损害的分类，用于指导治疗、研究、支付。</p>  <p><b
+source\appendix_q.html	研究	uced 成一个词）。罗森汉的研究（附录 J）证明：标签会改变别
+source\appendix_q.html	研究	0% 来自基因”，而是说“在被研究的人群与环境范围内，IQ 差异
+source\appendix_q.html	研究	是“合作的那一部分”。</b>研究里，“联盟”与疗效有稳定正相关
+source\appendix_q.html	研究	nce-based）：基于系统研究（RCT、元分析、指南）的证据
+source\appendix_q.html	世界	架，理解他的感受，“像他一样看世界”，但不失去“如同”的位置。<
+source\back_epilogue.html	文化	收入国家开发的，未必适合当地的文化与制度。“全球心理健康”试图用
+source\back_epilogue.html	文化	shifting）、社区干预、文化适配来填补这个缺口。它把本书“
+source\back_epilogue.html	文化	/p>  <p><b>第二个是文化与心理的互相构成。</b>本书
+source\back_epilogue.html	文化	</b>本书反复说“心理过程在文化中形成”。但这个说法有一个深层
+source\back_epilogue.html	文化	困难：<b>如果心理过程本身是文化的产物，那么心理学用来描述心理
+source\back_epilogue.html	文化	自我、情绪、人格、诊断），也是文化的产物。</b>这意味着，心理
+source\back_epilogue.html	文化	意味着，心理学不只是在“研究”文化，它也在“生产”文化：它定义了
+source\back_epilogue.html	文化	在“研究”文化，它也在“生产”文化：它定义了什么算“正常的自我”
+source\back_epilogue.html	文化	于我们忘了它们是特定历史、特定文化的产物。<b>它们有用，但它们
+source\back_epilogue.html	文化	  <p>这三个问题——意识、文化、制度——分别对应本书的三个边
+source\back_epilogue.html	文化	验为什么存在”，不能跳出自己的文化范畴，也不能解决资源分配。</
+source\back_epilogue.html	研究	套语言、一个有限的生命。心理学研究的是这个“人”的心理。即使行为
+source\back_epilogue.html	研究	。但它会让你在下次听到“心理学研究表明”时，多问一句：<b>这个
+source\back_epilogue.html	研究	表明”时，多问一句：<b>这个研究把什么划到了外面？它的代价由谁
+source\back_epilogue.html	研究	b>这意味着，心理学不只是在“研究”文化，它也在“生产”文化：它
+source\back_epilogue.html	世界	b>与<b>去殖民化</b>。世界卫生组织的数据显示，中低收入国
+source\back_epilogue.html	世界	被排除在外。</p>  <p>世界卫生组织的数据显示，中低收入国
+source\back_postscript.html	方法	b>你是这件事的专家，治疗师是方法的专家。两个人都不完全知道答案
+source\back_postscript.html	方法	②取向。</b>对方主要用什么方法？这个方法对你想解决的问题，有
+source\back_postscript.html	方法	/b>对方主要用什么方法？这个方法对你想解决的问题，有没有证据支
+source\back_postscript.html	研究	不是修理工。治疗更像两个人一起研究一件事：<b>你的痛苦是怎么维
+source\back_postscript.html	研究	吗？你可以在他面前说“不”吗？研究反复发现：<b>治疗关系与疗效
+source\back_postscript.html	研究	而是为了让你在看下一次“心理学研究表明”时，能多问一句：<b>它
+source\back_series.html	研究	"lead">本书属于一个独立研究系列：<b>六本学术专著 + 
+source\back_series.html	研究	td class="l">历史研究中的置信度、权衡与理论流变</
+source\back_series.html	世界	到说不清——六个核心，看懂复杂世界的取舍</td><td cla
+source\ch01.html	方法	>——哲学给出问题，生理学给出方法；两条线在 1879 年汇合。
+source\ch01.html	方法	个可以把私人感受变成公共数字的方法，一个可以让两个人看同一个现象
+source\ch01.html	方法	面部肌肉活动”。行为主义用这种方法绕开了内省，也绕开了“私人性”
+source\ch01.html	方法	反应是否一致。心理物理学用这种方法，把“主观感受”变成了“公共函
+source\ch01.html	方法	体里，变成了不同的概念、不同的方法、不同的证据标准。</b>把莱
+source\ch01.html	研究	ss="l">心理能否脱离身体研究？</td></tr> <tr
+source\ch01.html	研究	么“看自己的心”就是一条合法的研究路径。</p>  <p><b>
+source\ch01.html	研究	确地指出了心理学的困难：<b>研究对象是私人的，测量工具也是私人
+source\ch01.html	研究	 世纪后期。</b>认知心理学研究“前注意加工”“内隐记忆”“阈
+source\ch01.html	研究	却影响了后来的判断与行为。这些研究的结论比弗洛伊德保守得多——它
+source\ch01.html	世界	自然</b>：心理不再是另一个世界的居民，而是生命体的一种能力。
+source\ch01.html	世界	德：我们只能认识被我们整理过的世界</h3>  <p>莱布尼茨之
+source\ch01.html	世界	里提出：知识不是心灵被动地接收世界的印记，而是心灵<b>主动地整
+source\ch01.html	世界	然性是知性的范畴；这些东西不在世界本身里，而在我们认识世界的方式
+source\ch01.html	世界	西不在世界本身里，而在我们认识世界的方式里。我们只能认识<b>现
+source\ch01.html	世界	>现象</b>（经过我们整理的世界），不能认识<b>物自体</b
+source\ch01.html	世界	”的洞见。</b>我们感知到的世界，不是感官输入的原样复制，而是
+source\ch01.html	世界	学—现象学的：</b>他感到“世界褪色了”，时间变慢，别人说的话
+source\ch02.html	文化	感；它们不适合研究语言、思维、文化、宗教。对后者，他另开了一门学
+source\ch02.html	文化	>；它看不见的，是意义、语境、文化。用这把钟，心理学可以说“注意
+source\ch02.html	文化	d class="l">意义、文化、个体差异</td><td c
+source\ch02.html	文化	注意、简单情感，把语言、思维、文化、宗教留给了民族心理学。这个让
+source\ch02.html	文化	注意广度成了核心；意义、叙事、文化成了边缘。不是因为这些边缘问题
+source\ch02.html	文化	思辨，但 1980 年代以后，文化心理学、跨文化心理学、本土心理
+source\ch02.html	文化	80 年代以后，文化心理学、跨文化心理学、本土心理学（第 24 
+source\ch02.html	文化	题：<b>心理过程是不是在不同文化里长成不同的样子？</b>冯特
+source\ch02.html	方法	868 年发明了“减法反应时”方法。冯特的贡献是把这些零散的方法
+source\ch02.html	方法	方法。冯特的贡献是把这些零散的方法<b>组织成一个学科</b>：
+source\ch02.html	方法	b>【多想一层】</b>冯特的方法叫“实验内省”：被试经过长期训
+source\ch02.html	方法	、被试是训练过的。</b>这套方法后来被批评得很惨（第 3 章）
+source\ch02.html	方法	个常被忽略的面向：他很清楚这套方法能做什么、不能做什么。反应时与
+source\ch02.html	方法	><td class="l">方法</td><td class=
+source\ch02.html	方法	的疾病。</p>  <p>他的方法，是“<b>经验的现象学</b
+source\ch02.html	方法	开，分别对待。<b>这是一种“方法论的无神论”与“经验上的开放”
+source\ch02.html	方法	表中的“看不见”指的是他们各自方法论的<b>主焦点</b>，不是
+source\ch02.html	方法	来，如实描述经验如何呈现。这套方法后来影响了存在主义心理学（第 
+source\ch02.html	方法	究，以及认知科学里的“第一人称方法”。</p>  <p><b>第
+source\ch02.html	方法	”，如实描述经验如何呈现。这个方法后来影响了存在主义心理学、质性
+source\ch02.html	研究	见、慢得抓不住、又黏成一片。要研究它，先得决定用哪一个钟来计时。
+source\ch02.html	研究	后做了几年临床，发现自己更想做研究，于是转到生理学，给赫尔曼·冯
+source\ch02.html	研究	了数据。今天的心理物理学、注意研究、甚至部分意识研究，仍然在使用
+source\ch02.html	研究	物理学、注意研究、甚至部分意识研究，仍然在使用它的后代——只是报
+source\ch02.html	研究	、不能做什么。反应时与内省适合研究感觉、知觉、注意、简单情感；它
+source\ch02.html	研究	觉、注意、简单情感；它们不适合研究语言、思维、文化、宗教。对后者
+source\ch02.html	研究	），用语言、神话、风俗的材料去研究“高级心理过程”，从 1900
+source\ch02.html	研究	个假设很优雅，也很脆弱。后来的研究发现：<b>被试会“策略性”地
+source\ch02.html	研究	/b>。</p>  <p>冯特研究的是“内容”：感觉、意象、情感
+source\ch02.html	研究	道具。布伦塔诺说，心理学真正该研究的是“活动”：<b>看、听、判
+source\ch02.html	研究	fallacy）。它的意思是：研究者把自己分析出来的、清晰的概念
+source\ch02.html	研究	分析出来的、清晰的概念，当成被研究者的实际经验。你用“注意”“记
+source\ch02.html	研究	</b>这条批评，在今天的质性研究、现象学心理学、甚至临床访谈里
+source\ch02.html	研究	绪有身体成分”这一点，成了情绪研究的起点。另一个是<b>习惯</
+source\ch02.html	研究	成了一个可以被描述、被比较、被研究的对象。</b>它也让詹姆斯成
+source\ch02.html	研究	条线后来被超个人心理学、意义感研究、灵性危机研究接了过去（附录 
+source\ch02.html	研究	人心理学、意义感研究、灵性危机研究接了过去（附录 K）。它也提醒
+source\ch02.html	研究	三位作者本人的自我定位。冯特也研究过民族心理学，詹姆斯也做过实验
+source\ch02.html	研究	学从诞生那天起，就带着一个“只研究简单过程”的胎记。</b>这个
+source\ch02.html	研究	—你去看主流实验心理学的期刊，研究“一个被试在 500 毫秒内对
+source\ch02.html	研究	张图片的反应”的论文，远远多于研究“一个人如何理解自己的一生”的
+source\ch02.html	研究	理学用“年”做单位，做出了纵向研究、队列研究、干预实验；流行病学
+source\ch02.html	研究	”做单位，做出了纵向研究、队列研究、干预实验；流行病学用“十年”
+source\ch02.html	研究	的证据强度并不比一个扎实的纵向研究高。<b>时间尺度是分辨率，不
+source\ch02.html	研究	义心理学（第 21 章）、质性研究，以及认知科学里的“第一人称方
+source\ch02.html	研究	b>施通普夫是布伦塔诺的学生，研究音程与音调的知觉。他的学生韦特
+source\ch02.html	研究	通常被算作“第一个专用于心理学研究的实验室”）；詹姆斯 1875
+source\ch02.html	研究	1883 年冯特的实验室升格为研究所。把 1879 年当作“心理
+source\ch02.html	研究	后来影响了存在主义心理学、质性研究、神经现象学。</p>  <p
+source\ch02.html	研究	b>施通普夫是布伦塔诺的学生，研究音程与音调的知觉；他的学生韦特
+source\ch02.html	世界	直接经验”</b>——不是外部世界本身，而是世界在意识中呈现的样
+source\ch02.html	世界	b>——不是外部世界本身，而是世界在意识中呈现的样子。他在 18
+source\ch02.html	世界	》，两卷本，一千多页，成了英语世界心理学的圣经。</p>  <p
+source\ch02.html	世界	 <p>布伦塔诺这一支，在英语世界的心理学史里常被写成一行脚注。
+source\ch02.html	世界	主义与格式塔同时抛弃，他在英语世界的形象长期被铁钦纳的转述所塑造
+source\ch02.html	世界	伦塔诺的“意动心理学”，在英语世界的心理学史里常被写成一行脚注。
+source\ch03.html	方法	1">3.1　一个学生把老师的方法带到了美国</h3>  <p>
+source\ch03.html	方法	/p>  <p>铁钦纳把冯特的方法带到了美国，但他带走的是<b>
+source\ch03.html	方法	带到了美国，但他带走的是<b>方法</b>，不是冯特的全部理论。
+source\ch03.html	方法	样说话。</p>  <p>这套方法在实验室里确实产生了一些扎实的
+source\ch03.html	方法	《心理学：行为的研究》）。它的方法不限于内省：问卷、测验、发展观
+source\ch03.html	方法	义分析出来的东西，可能只是分析方法的产物。</b>这条批评，在 
+source\ch03.html	方法	台，不是因为哲学争论，而是因为方法本身出了三个问题。</p>  
+source\ch03.html	方法	是“有偏差”，而是“没有校准的方法”。</p>  <p><b>第
+source\ch03.html	方法	>这个区分，对今天的“第一人称方法”“现象学访谈”“体验取样”都
+source\ch03.html	方法	、视觉、疼痛研究，仍然在用这些方法。</p>  <p><b>第二
+source\ch03.html	方法	”：构造主义作为纲领死了，作为方法活了。读心理学史，如果只读“谁
+source\ch03.html	方法	  <p><b>第三次回归，在方法论上。</b>“出声思维”在 
+source\ch03.html	方法	新捡起，成为研究问题解决的标准方法；经验取样法用手机提醒人们在日
+source\ch03.html	方法	与质性研究里重新获得位置。这些方法都不是铁钦纳式的内省，但它们都
+source\ch03.html	研究	果：感觉阈限的测定、视觉后像的研究、注意广度的测量。但它有一个致
+source\ch03.html	研究	/p>  <p>由此，心理学的研究对象就变了。不是“意识由哪些元
+source\ch03.html	研究	（1925 年《心理学：行为的研究》）。它的方法不限于内省：问卷
+source\ch03.html	研究	 <p><b>第三，内省是许多研究的起点。</b>一个研究者先“
+source\ch03.html	研究	是许多研究的起点。</b>一个研究者先“注意到”某个现象（“我发
+source\ch03.html	研究	出可重复的微观机制。机能主义的研究往往“有道理但不够硬”——它能
+source\ch03.html	研究	的工具（心理物理法、测验、发展研究）。</p></div>  <
+source\ch03.html	研究	出来的。今天的听觉、视觉、疼痛研究，仍然在用这些方法。</p> 
+source\ch03.html	研究	6 章），认知心理学家重新开始研究注意、意识、心理表象。他们不再
+source\ch03.html	研究	前额叶、后扣带、楔前叶、角回。研究者把它命名为“<b>默认模式网
+source\ch03.html	研究	1980 年代被重新捡起，成为研究问题解决的标准方法；经验取样法
+source\ch03.html	研究	；现象学访谈在健康心理学与质性研究里重新获得位置。这些方法都不是
+source\ch03.html	世界	冯特。这个误读后来被写进了英语世界的教科书，直到 1970 年代
+source\ch04.html	文化	不是训练出来的；它自动发生，跨文化发生，甚至在其他动物身上也能观
+source\ch04.html	方法	到。格式塔心理学家由此得出一个方法论结论：<b>心理学的首要对象
+source\ch04.html	方法	果加起来”来理解整体。这对科学方法是一个严重的挑战，因为科学的常
+source\ch04.html	方法	，让你自己看见组织发生了。这套方法能说服人，但很难量化，很难建立
+source\ch04.html	方法	背景”“未完成”这些词，但它的方法（对话、体验练习、空椅子技术）
+source\ch04.html	方法	椅子技术）与格式塔心理学的实验方法几乎没有关系。<b>这是本书要
+source\ch04.html	研究	画的转筒。然后他找到当地心理学研究所的两位年轻人，请他们当被试。
+source\ch04.html	研究	，他发表了《关于运动知觉的实验研究》，这篇论文通常被当作格式塔心
+source\ch04.html	研究	的特内里费岛，接手那里的类人猿研究站。他原本计划待几个月，结果因
+source\ch04.html	研究	运动）如何被绑成一个对象？一些研究者认为，神经同步振荡是绑定机制
+source\ch04.html	研究	3 年的论文《关于格式塔理论的研究》中系统提出，后来被考夫卡写进
+source\ch04.html	研究	>勒温的另一个贡献是<b>行动研究</b>（action res
+source\ch04.html	研究	tion research）：研究不应该只是描述，还应该参与改变
+source\ch04.html	研究	格实验，是社会心理学最早的实验研究之一：同样的男孩群体，换成不同
+source\ch04.html	研究	为部分，那么你就不能通过“分别研究每个部分，再把结果加起来”来理
+source\ch04.html	研究	b>把一个人从他的关系里抽出来研究，会漏掉最重要的东西。</b>
+source\ch04.html	研究	970 年代以后，计算机视觉的研究者发现，要让机器“看见”对象，
+source\ch04.html	世界	本计划待几个月，结果因为第一次世界大战爆发，航路中断，一待就是七
+source\ch05.html	方法	索。</b>但它也有一个致命的方法论困难：<b>任何结果都可以被
+source\ch05.html	方法	>  <p>但移情也带来了一个方法论难题：<b>分析师也是人。<
+source\ch05.html	方法	1895 年没有随机对照试验的方法学，没有元分析，没有脑成像。弗
+source\ch05.html	方法	>精神分析后来发展出了一些补救方法：<b>单被试实验设计</b>
+source\ch05.html	方法	对照试验检验长程动力治疗。这些方法都不能把个案变成“样本”，但它
+source\ch05.html	研究	<p>这个病例后来被写成《癔症研究》（1895），作者是布罗伊尔
+source\ch05.html	研究	大学学医，做过神经系统的组织学研究，1885 年到巴黎跟沙可学习
+source\ch05.html	研究	识的同义词；在冯特那里，心理学研究的是直接经验；在弗洛伊德这里，
+source\ch05.html	研究	p><b>这条线一划，心理学的研究对象就变了：</b>从“我意识
+source\ch05.html	研究	  <p><b>第一本是《癔症研究》。</b>它用临床案例证明：
+source\ch05.html	研究	方——因为从那一刻起，精神分析研究的对象不再是“发生了什么”，而
+source\ch05.html	研究	p></div>  <p>梦的研究后来被实验心理学接管。1953
+source\ch05.html	研究	反对“梦是愿望满足”。但后来的研究又发现，梦并不只发生在 REM
+source\ch05.html	研究	《日常生活的心理病理学》，专门研究“弗洛伊德式口误”：你叫错一个
+source\ch05.html	研究	题编码，做质性比较；<b>疗效研究</b>，用随机对照试验检验长
+source\ch05.html	研究	0 年代：</b>神经科学开始研究突触可塑性、长时程增强（LTP
+source\ch05.html	研究	LTP）、多巴胺奖赏系统。一些研究者发现，《大纲》里“接触屏障的
+source\ch05.html	研究	>2000 年代以后：</b>研究集中在几个可检验的方向：梦的神
+source\ch05.html	研究	神经基础、无意识情绪加工。这些研究大多<b>不支持</b>弗洛伊
+source\ch05.html	研究	“记忆抑制”，后者可以被实验室研究，但失去了“冲突”“审查”“伪
+source\ch05.html	世界	有因果力量。这是精神分析“内在世界”的起点，也是它最深刻的贡献之
+source\ch05.html	世界	5-6">5.6　死本能与两次世界大战</h3>  <p>弗洛伊
+source\ch05.html	世界	着改。</p>  <p>第一次世界大战摧毁了他对“理性的人”的乐
+source\ch06.html	文化	影、智慧老人、自我。原型在不同文化的神话、宗教、梦、艺术里反复出
+source\ch06.html	文化	class="l">只能通过跨文化比较推断</td></tr> 
+source\ch06.html	文化	原型构成。解释的权力属于能够跨文化比较神话、宗教、炼金术的人。这
+source\ch06.html	文化	s="l">C 深度 + T 文化传递</td><td clas
+source\ch06.html	文化	。</b>他的理论能解释大量跨文化的材料：神话为什么反复出现同一
+source\ch06.html	方法	来很“励志”，但它有一个严肃的方法论后果：<b>它把解释的重心从
+source\ch06.html	研究	史与批评文献）；具体效度数值因研究而异，B。</p></div>
+source\ch06.html	世界	年早期形成一套关于自己、他人、世界的核心信念，之后的行为都在维护
+source\ch07.html	文化	粹的内部幻想；它在两者之间，是文化与创造力的起源。温尼科特说：<
+source\ch07.html	文化	，就没有游戏；没有游戏，就没有文化。</b></p>  <p>他
+source\ch07.html	文化	间传递。它甚至传到了文学批评、文化研究、组织咨询里。</p>  
+source\ch07.html	方法	止回应，婴儿会在几秒内尝试各种方法唤回她，然后退缩、自我安抚。这
+source\ch07.html	方法	 <p>客体关系学派留下了一套方法论遗产：<b>婴儿观察</b>
+source\ch07.html	方法	绪反应。</p>  <p>这套方法的目的，不是“收集数据”，而是
+source\ch07.html	研究	“精确配方”。实际上，没有哪个研究能告诉你“每天应该失败几次”。
+source\ch07.html	研究	、做精神分析，在塔维斯托克诊所研究团体动力，最后成为克莱因派最重
+source\ch07.html	研究	递。它甚至传到了文学批评、文化研究、组织咨询里。</p>  <p
+source\ch07.html	研究	核心概念难以证伪，也难以与实验研究拼接；<b>补偿是：</b>它
+source\ch07.html	研究	的一套语言，这套语言后来在依恋研究、心智化治疗与婴儿观察里找到了
+source\ch07.html	研究	b>第三次回归：神经科学与婴儿研究。</b>1990 年代以后，
+source\ch07.html	研究	0 年代以后，发展神经科学开始研究母婴互动中的“<b>同调</b
+source\ch07.html	研究	、语调、节奏与婴儿的状态匹配。研究发现，同调不是“模仿”，而是“
+source\ch07.html	研究	>  <p>婴儿观察后来也成了研究工具：它被用于依恋研究、自闭症
+source\ch07.html	研究	来也成了研究工具：它被用于依恋研究、自闭症早期识别、母婴互动研究
+source\ch07.html	研究	研究、自闭症早期识别、母婴互动研究。它的优点是“生态效度”：在家
+source\ch07.html	研究	套语言后来在依恋、心智化与婴儿研究里找到了可测量的版本——但被测
+source\ch07.html	世界	里形成关于自己、关于他人、关于世界的基本模板。饥饿会被体验为“我
+source\ch08.html	文化	来自多项元分析的区间，随样本、文化、风险水平变化；van IJz
+source\ch08.html	文化	编码手册略有不同，这也是后来跨文化比较困难的原因之一。</p> 
+source\ch08.html	文化	室能做同一个实验）、可比较（跨文化、跨年龄）、可传递（一套编码手
+source\ch08.html	文化	”变成可以被观察、被重复、被跨文化比较的对象，依恋理论让出了内在
+source\ch08.html	文化	</p>  <p><b>第一，文化。</b>在多重照顾者普遍的文
+source\ch08.html	文化	化。</b>在多重照顾者普遍的文化里（比如中国的隔代抚养、大家庭
+source\ch08.html	方法	/p>  <p>这里必须插一句方法学的提醒：<b>陌生情境是一个
+source\ch08.html	方法	者不想知道孩子的感受，而是这套方法只能记录行为。</b>要知道感
+source\ch08.html	方法	</b>要知道感受，需要另一种方法（访谈、游戏、生理测量、母亲的
+source\ch08.html	方法	告）。好的研究，往往同时用几种方法；只用一个，就会把“方法能看见
+source\ch08.html	方法	用几种方法；只用一个，就会把“方法能看见的”当成“存在的全部”。
+source\ch08.html	方法	型。这是从“类型”到“维度”的方法学进步（B）。</p>  <p
+source\ch08.html	研究	精神分析用的是“年”的钟，依恋研究用的是“分钟”的钟。同一个问题
+source\ch08.html	研究	作。1944 年，他发表了一项研究：《四十四名少年窃贼》。他发现
+source\ch08.html	研究	在巴尔的摩做了一项更系统的追踪研究，然后设计了“陌生情境”实验，
+source\ch08.html	研究	测依恋类型；这个发现后来被大量研究重复，效应量中等（B）。</p
+source\ch08.html	研究	的编码系统。</p>  <p>研究者把二十分钟的录像切成多个“回
+source\ch08.html	研究	在体验”的具体机制：<b>不是研究者不想知道孩子的感受，而是这套
+source\ch08.html	研究	、生理测量、母亲的报告）。好的研究，往往同时用几种方法；只用一个
+source\ch08.html	研究	止改变。</p>  <p>依恋研究本身是反对“类型即命运”的：<
+source\ch08.html	研究	能同时依恋母亲、祖父母、保姆。研究者发现，多重依恋是正常的，关键
+source\ch08.html	研究	不是同一个机制。</b>后来的研究把成人依恋拆成两个连续维度——
+source\ch08.html	研究	中保持反思、是否会被情绪淹没。研究发现，父母的 AAI 分类可以
+source\ch08.html	研究	三步：干预与政策。</b>依恋研究影响了育儿政策（英国的 Sur
+source\ch08.html	研究	心智化治疗）。它也影响了中国的研究：1990 年代以后，留守儿童
+source\ch08.html	研究	、寄宿制学校、隔代抚养成为依恋研究的重要对象。<b>这些研究的一
+source\ch08.html	研究	依恋研究的重要对象。<b>这些研究的一个共同发现是：依恋的风险不
+source\ch08.html	研究	00 年代以后，fMRI 开始研究依恋：看母亲照片时，安全型的人
+source\ch08.html	研究	工作模型是可以更新的。</b>研究里有一个概念叫“<b>获得性安
+source\ch08.html	研究	传下去</h4>  <p>依恋研究最重要的发现之一，是“<b>代
+source\ch08.html	研究	中保持反思，是否会被情绪淹没。研究发现，父母的 AAI 分类与孩
+source\ch08.html	研究	 <p>这个传递是怎么发生的？研究提示了几条路径：<b>①敏感度
+source\ch08.html	研究	p>但“传递”不等于“命运”。研究也发现：<b>①传递不是 10
+source\ch09.html	文化	、更不像人。</b>（这是一种文化分析，不是临床诊断，等级 C。
+source\ch09.html	文化	界”，成了 1970 年代以后文化理论的核心词汇。</p>  <
+source\ch09.html	文化	家齐泽克用黑格尔、马克思与流行文化（希区柯克、黑色电影、网络段子
+source\ch09.html	文化	写拉康，让拉康从临床理论变成了文化批判的工具。这一波让拉康“出圈
+source\ch09.html	文化	p>  <p><b>第三条是“文化理论拉康派”</b>：齐泽克等
+source\ch09.html	研究	英语世界出现了一批更严谨的拉康研究，试图把他的概念放回临床与数学
+source\ch09.html	世界	">9.4　被埋没与回归：英语世界的延迟承认</h3>  <p>
+source\ch09.html	世界	1960 年代开始上升；在英语世界，他的接受晚了将近二十年。</
+source\ch09.html	世界	00 年代以后）：</b>英语世界出现了一批更严谨的拉康研究，试
+source\ch09.html	世界	  <p><b>第四条是“英语世界的临床接受”</b>：一批英国
+source\ch10.html	方法	25 章会说明这种“翻译表”的方法论风险。</div>  <im
+source\ch10.html	方法	回答是否成立，仍有争论。但它的方法论意义很清楚：<b>一个“最小
+source\ch10.html	方法	盘失败”，也忽略了它已经带来的方法论收益：<b>它迫使精神分析把
+source\ch10.html	方法	己“逃避”，只记录：你用了什么方法、代价是什么、它有没有在别的地
+source\ch10.html	研究	年后，坎德尔因为记忆的分子机制研究获得诺贝尔生理学或医学奖。他的
+source\ch10.html	研究	一种简单的海洋软体动物；他通过研究它的缩鳃反射，揭示了短时记忆与
+source\ch10.html	研究	ass="l">B（动物与人类研究均有）</td><td cla
+source\ch10.html	研究	验；一个关于“移情”的神经影像研究，可以和依恋研究、社会神经科学
+source\ch10.html	研究	情”的神经影像研究，可以和依恋研究、社会神经科学、学习理论拼接。
+source\ch10.html	研究	，一条新闻在社交媒体上流传：“研究发现，抑郁会让海马缩小。”配图
+source\ch10.html	研究	/p>  <p>这条新闻背后的研究，通常是一个横断面的相关研究：
+source\ch10.html	研究	的研究，通常是一个横断面的相关研究：抑郁组的海马体积，平均比对照
+source\ch10.html	世界	先验预期，主动生成一个关于外部世界的假设，再用感官输入去修正它。
+source\ch11.html	歷史	测量的历史，不只是心理学内部的歷史，它和选拔制度、社会流动、国家
+source\ch11.html	文化	差异，都可能由教育、营养、测试文化熟悉度、刻板印象威胁、样本选择
+source\ch11.html	文化	反复强调：IQ 测的是“在特定文化里解决抽象问题的能力”，不是“
+source\ch11.html	文化	想什么、他的困难是动机、焦虑、文化差异还是睡眠不足。分数是<b>
+source\ch11.html	方法	一层】</b>比奈—西蒙量表的方法论创新，不是“智力”这个概念，
+source\ch11.html	方法	看某个孩子在分布里的位置。这个方法让“心理”第一次可以和“年龄”
+source\ch11.html	方法	了约 170 万人。这套测验的方法很粗糙（集体施测、时间紧、指导
+source\ch11.html	方法	境范围。等级：A（行为遗传学的方法学共识）；具体数值因样本与方法
+source\ch11.html	方法	方法学共识）；具体数值因样本与方法而异，B。</p></div>
+source\ch11.html	研究	一个不那么出名、但很有代表性的研究：<b>心理意象问卷</b>。
+source\ch11.html	研究	</b>这是最早的“个体差异”研究之一。</p>  <p>但高尔
+source\ch11.html	研究	国公共教育部成立了一个委员会，研究一个问题：<b>如何识别那些需
+source\ch11.html	研究	00 多名高智商儿童的长期追踪研究（“天才遗传研究”）。这项研究
+source\ch11.html	研究	儿童的长期追踪研究（“天才遗传研究”）。这项研究持续了几十年，发
+source\ch11.html	研究	研究（“天才遗传研究”）。这项研究持续了几十年，发现高智商儿童在
+source\ch11.html	研究	职业挫折、心理困扰。<b>这项研究的价值在于：它用数据打破了“高
+source\ch11.html	研究	生赢家”的迷思。</b>（A：研究史；结论强度随指标而异，B。）
+source\ch11.html	研究	 是一种“心理能量”）；后来的研究者更谨慎：<b>g 的统计存在
+source\ch11.html	研究	依赖于环境范围。</b>双生子研究、领养研究给出的数字，只适用于
+source\ch11.html	研究	范围。</b>双生子研究、领养研究给出的数字，只适用于被研究的那
+source\ch11.html	研究	领养研究给出的数字，只适用于被研究的那个环境范围。等级：A（行为
+source\ch11.html	世界	  <p><b>第一件是第一次世界大战的军队测验。</b>191
+source\ch12.html	文化	特的能力——语言、想象、符号、文化；<b>补偿是：</b>它给心
+source\ch12.html	文化	不是科学，是一种关于“独立”的文化偏好。</b>（B）这笔账，最
+source\ch12.html	文化	与卢里亚把它接了过去，发展出“文化—历史”学派：<b>语言不只是
+source\ch12.html	方法	控制行为</b>。内省不构成本方法的主要部分，它的资料也不具有科
+source\ch12.html	方法	传能力：<b>他知道怎样把一场方法论争论写成一份宣言。</b><
+source\ch12.html	方法	三条公设，每一条都带来了巨大的方法论收益，也每一条都埋下了一个账
+source\ch12.html	方法	/div>  <p>巴甫洛夫的方法论比华生更彻底。他坚持：<b>
+source\ch12.html	方法	</b>”，反对心理学的“主观方法”。</p>  <p>但巴甫洛
+source\ch12.html	方法	，如果给他时间，他可以用同样的方法消除恐惧；但他没有做。</li
+source\ch12.html	方法	估是：<b>它是一次有启发的、方法学上薄弱的、伦理上不可接受的演
+source\ch12.html	方法	h4>  <p>小艾伯特实验，方法学薄弱、伦理上不可接受、被试身
+source\ch12.html	方法	规律作息。</b>他相信，只要方法得当，任何孩子都可以被塑造成任
+source\ch12.html	方法	潭里拉了出来，给了它一套公共的方法：操作定义、控制实验、单被试设
+source\ch12.html	方法	验、单被试设计、行为记录。这套方法至今仍是心理学的骨架。它也给了
+source\ch12.html	方法	/b>它给心理学留下了最坚实的方法论地基，以及一套至今有效的治疗
+source\ch12.html	方法	。</p>  <p>行为主义的方法也回来了，只是换了名字。今天的
+source\ch12.html	方法	。<b>在学术市场里，可复制的方法比深刻的理论更容易扩张。</b
+source\ch12.html	方法	：一个学派的生命力，取决于它的方法能不能被大规模复制。这条规律，
+source\ch12.html	方法	与梦。它没有错到底——它留下的方法至今仍在工作；它也没有对到底—
+source\ch12.html	研究	（看见）：</b>如果心理学只研究“可观察的行为”，它会得到什么
+source\ch12.html	研究	，在芝加哥跟安吉尔做过动物行为研究。他不是一个细腻的理论家，但他
+source\ch12.html	研究	心理主义：</b>心理学不应该研究意识、意象、感受，因为这些只能
+source\ch12.html	研究	迷宫、鸽子啄键、狗流口水，都是研究学习的合法模型。</li> <
+source\ch12.html	研究	可以用动物做实验，极大地扩展了研究的范围与精度。但它也带来一个问
+source\ch12.html	研究	</p>  <p>巴甫洛夫原本研究消化生理，因为狗的胃液分泌研究
+source\ch12.html	研究	研究消化生理，因为狗的胃液分泌研究获得了 1904 年的诺贝尔生
+source\ch12.html	研究	 年的诺贝尔生理学或医学奖。在研究消化的过程中，他发现了一个“麻
+source\ch12.html	研究	当成实验误差排除掉；但他选择了研究它。</p>  <p>他把这个
+source\ch12.html	研究	集唾液，用仪器记录。他称自己的研究为“<b>客观研究</b>”，
+source\ch12.html	研究	。他称自己的研究为“<b>客观研究</b>”，反对心理学的“主观
+source\ch12.html	研究	内部过程必须通过行为来推断。他研究了“兴奋”与“抑制”两种神经过
+source\ch12.html	研究	兴奋”与“抑制”两种神经过程，研究了它们的扩散与集中，研究了不同
+source\ch12.html	研究	过程，研究了它们的扩散与集中，研究了不同狗的“神经类型”（相当于
+source\ch12.html	研究	<p>1920 年，华生与他的研究生罗莎莉·雷纳做了一个后来被写
+source\ch12.html	研究	定论。</b>2009 年，有研究者提出艾伯特可能是道格拉斯·梅
+source\ch12.html	研究	 1924 年做了“小彼得”的研究：她用反条件化（把愉快的食物与
+source\ch12.html	研究	述”核心的一个案例：<b>一个研究能不能被记住，不只取决于它的证
+source\ch12.html	研究	化史。</b>后来发展心理学的研究（尤其是依恋理论，第 8 章）
+source\ch12.html	研究	行为，行为主义只能把它们排除在研究之外。</li> <li><b
+source\ch12.html	研究	观察”不是“中立”的。选择“只研究可观察的行为”，本身就是一个价
+source\ch12.html	研究	。</p>  <p>后来的依恋研究（第 8 章）给出的结论，与华
+source\ch12.html	研究	<b>作为哲学纲领（“心理学只研究行为”），它错了；作为技术工具
+source\ch12.html	研究	书（第 15 章）；此后，语言研究转向了认知主义。但“词可以代替
+source\ch12.html	研究	经济学（助推、默认选项）、习惯研究（实施意向、线索—routin
+source\ch12.html	研究	</b>它们不再声称“心理学只研究行为”，但它们保留了行为主义最
+source\ch12.html	研究	教、可学、可复制</b>：一个研究生可以在两年内学会做动物实验、
+source\ch12.html	研究	夫的实验，专门签发命令保障他的研究条件；巴甫洛夫本人却并不认同布
+source\ch12.html	世界	要的理论扩展，也是他最不被英语世界重视的部分。它的意思是：<b>
+source\ch12.html	世界	洛夫的“第二信号系统”，在英语世界长期被忽略，但在苏联心理学里成
+source\ch13.html	文化	遇到了自己的困难（意义、身体、文化）。所以，乔姆斯基的批评是“破
+source\ch13.html	文化	”与“尊严”不是科学概念，而是文化中的“解释性虚构”，它们让我们
+source\ch13.html	文化	</b>（个体层面）、<b>③文化演化</b>（群体层面）。这三
+source\ch13.html	文化	：用同一个原则解释生物、行为与文化。</b>等级：A（文本）；这
+source\ch13.html	文化	答这三个问题，他把它们交给了“文化设计者”。但“文化设计者”不是
+source\ch13.html	文化	它们交给了“文化设计者”。但“文化设计者”不是一个可以被信任的空
+source\ch13.html	方法	化接近目标的行为。斯金纳用这个方法教会鸽子啄一个特定的点、打乒乓
+source\ch13.html	研究	可以设计出更好的社会。他一生的研究，就是在证明一件事：<b>行为
+source\ch13.html	研究	</b>而《沃尔登第二》是这项研究的政治推论。</p>  <h3
+source\ch13.html	研究	>  <p><b>第四站：习惯研究。</b>“线索—行为—奖励”
+source\ch13.html	研究	的后代。它们不再声称“心理学只研究行为”，但它们保留了行为主义最
+source\ch14.html	方法	后，一个南非的精神科医生把这种方法系统化，给了它一个名字：<b>
+source\ch14.html	方法	制的心理治疗》，系统总结了这套方法。它很快在英语世界传播，成为行
+source\ch14.html	方法	起了轩然大波。精神分析界指责它方法粗糙：研究选择有偏、诊断标准不
+source\ch14.html	研究	>  <p>他收集了 24 项研究，涉及约 7000 名患者，比
+source\ch14.html	研究	；甚至略低。</b>他从几项旧研究里引用了“未治疗者的自然改善率
+source\ch14.html	研究	波。精神分析界指责它方法粗糙：研究选择有偏、诊断标准不一、“改善
+source\ch14.html	研究	过极具争议的观点，有些被后来的研究否定。<b>评价他，要分开看：
+source\ch14.html	研究	的一方</b>指出：精神分析的研究，样本小、没有对照、随访短、 
+source\ch14.html	研究	三分之二”这个数字，来自几项旧研究（Landis、Denker）
+source\ch14.html	研究	ndis、Denker），这些研究的样本、诊断、随访都不一；用这
+source\ch14.html	研究	iance effect）——研究者对自己偏好的疗法，往往会得到
+source\ch14.html	研究	”共同作用的结果。<b>读疗效研究时，要看研究者的理论取向，也要
+source\ch14.html	研究	结果。<b>读疗效研究时，要看研究者的理论取向，也要看有没有独立
+source\ch14.html	研究	几个关键的技术要点，都是几十年研究换来的：</p>  <ol> 
+source\ch14.html	世界	统总结了这套方法。它很快在英语世界传播，成为行为疗法的第一块招牌
+source\ch14.html	世界	“电梯”，没有解决“为什么她的世界变得这么小”。</b>她可能仍
+source\ch15.html	文化	当理论从实验室走向语言、思维、文化时，它的概念变得如此灵活，以至
+source\ch15.html	文化	lass="l">身体、情绪、文化、第一人称经验</td></t
+source\ch15.html	文化	于是“意义”“身体”“情感”“文化”这些不容易被写成算法的东西，
+source\ch15.html	文化	间里忽略了具身性。<b>第三，文化。</b>信息加工模型假设所有
+source\ch15.html	文化	型假设所有人都用同一套架构，跨文化差异被放到了“内容”里，而不是
+source\ch15.html	文化	后来被 4E 认知、情绪科学、文化心理学、现象学重新提出来。它们
+source\ch15.html	方法	行为主义如何在理论上输掉，却在方法上赢了；以及“赢”与“输”各自
+source\ch15.html	方法	派的核心主张可能被推翻，但它的方法、工具、制度会留在学科里。</
+source\ch15.html	方法	式”，而是“新范式吸收旧范式的方法，忘掉旧范式的口号”。</b>
+source\ch15.html	方法	。</p>  <p><b>它的方法被吸收了：</b>操作定义、控
+source\ch15.html	方法	补偿是：</b>行为主义留下的方法，成了整个学科的地基。</p>
+source\ch15.html	方法	>  <p>这就是“理论退场、方法存活”的日常版本。<b>行为主
+source\ch15.html	方法	<b>行为主义在理论上输了，在方法上赢了。它教给心理学的最重要一
+source\ch15.html	研究	定理；布鲁纳等人出版了《思维的研究》，研究概念形成；乔姆斯基在麻
+source\ch15.html	研究	鲁纳等人出版了《思维的研究》，研究概念形成；乔姆斯基在麻省理工做
+source\ch15.html	研究	件有一个共同点：<b>它们都在研究“内部”。</b>注意、记忆、
+source\ch15.html	研究	接管了行为主义的实验室、期刊、研究生、经费，然后换了一套语言：<
+source\ch15.html	研究	><td class="l">研究对象</td><td clas
+source\ch15.html	研究	美国心理学的主流：期刊、经费、研究生训练、学会职位，都在行为主义
+source\ch15.html	研究	0 年，布鲁纳在哈佛建立“认知研究中心”，把心理学、语言学、计算
+source\ch15.html	研究	记忆与认知》等期刊创刊，给认知研究提供了发表空间。</li> <
+source\ch15.html	研究	费，支持了“人如何加工信息”的研究。</li> <li><b>跨
+source\ch15.html	研究	张被推翻了：</b>“心理学只研究可观察的行为”不再成立。内部状
+source\ch15.html	研究	化”；今天的行为经济学家仍然在研究“可观察的选择”。</p>  
+source\ch15.html	研究	息加工”，不是“意义”。你可以研究一个人如何记住一个词，但“这个
+source\ch15.html	研究	。<b>行为主义作为“心理学只研究行为”的纲领，确实死了；但作为
+source\ch15.html	研究	给心理学的最重要一课，不是“只研究行为”，而是“把你的主张写成可
+source\ch16.html	文化	lass="l">情绪、身体、文化如何纳入？</td></tr>
+source\ch16.html	文化	被试会把故事改得更符合英国人的文化预期：超自然的部分被删掉，因果
+source\ch16.html	文化	部划回来，留下了“意义、身体、文化”；4E 认知把身体划回来，可
+source\ch16.html	方法	  <p>这个假说带来了巨大的方法论收益。它让“思维”变成了可以
+source\ch16.html	方法	  <p><b>第二，新的实验方法。</b>反应时、错误率、双任
+source\ch16.html	方法	、启动效应、眼动、脑电——这些方法都是为了“看见”内部加工。它们
+source\ch16.html	方法	</b>它给了心理学一套精确的方法，让“内部”第一次可以被公共研
+source\ch16.html	研究	，是多种限制叠加的结果。后来的研究把容量下修到约四个组块（Cow
+source\ch16.html	研究	法，让“内部”第一次可以被公共研究。</p></div>  <h
+source\ch16.html	研究	>  <p><b>格式塔的知觉研究。</b>认知心理学重新研究“
+source\ch16.html	研究	觉研究。</b>认知心理学重新研究“整体优先”“图形—背景”“组
+source\ch16.html	研究	去重建。</p>  <p>这个研究在行为主义时代被边缘化，因为“
+source\ch16.html	研究	、图式（schema）成了记忆研究的核心概念。<b>“记忆是重建
+source\ch16.html	研究	从巴特莱特到洛夫特斯（错误记忆研究），再到今天的“记忆再巩固”，
+source\ch16.html	世界	系统里的位置，还是它指向的外部世界？这个问题，后来成了认知科学的
+source\ch16.html	世界	系统里的位置决定，而不是由它与世界的联系决定。一个只存在于系统内
+source\ch16.html	世界	统内部的符号，如何“关于”外部世界？这就是“符号 groundi
+source\ch17.html	文化	>并非所有人都达到，也不是所有文化都要求</td></tr> <
+source\ch17.html	文化	d class="l">经验、文化、语言的多样性</td></t
+source\ch17.html	文化	p><b>乔姆斯基让出了经验、文化与语言的多样性。</b>他的普
+source\ch17.html	文化	>皮亚杰的“四道台阶”在大量跨文化研究中被部分证实、部分修正。守
+source\ch17.html	文化	算并非所有人都达到，也不是所有文化都要求；婴儿的能力被后来的研究
+source\ch17.html	研究	）是瑞士人，生物学出身，年轻时研究软体动物。他后来去巴黎的比奈实
+source\ch17.html	研究	/p>  <p>他由此转向发展研究，在日内瓦建立了自己的研究中心
+source\ch17.html	研究	发展研究，在日内瓦建立了自己的研究中心，用“临床访谈法”：不给孩
+source\ch17.html	研究	它们各自提出了一个至今仍在驱动研究的问题——<b>结构从哪里来？
+source\ch17.html	研究	、能抽象、能自我控制。皮亚杰的研究说明：<b>孩子的思维有它自己
+source\ch17.html	研究	亚杰的“四道台阶”在大量跨文化研究中被部分证实、部分修正。守恒的
+source\ch17.html	研究	文化都要求；婴儿的能力被后来的研究大幅“上调”——鲍尔吉隆在 1
+source\ch17.html	世界	/b>（schema，孩子理解世界的框架）、<b>同化</b>（
+source\ch17.html	世界	带着某种先天的“语言装置”来到世界。</li> </ol>  <
+source\ch18.html	文化	需要知道他的身体能做什么、他的文化如何定义“椅子”、他此刻想做什
+source\ch18.html	方法	：<b>找功能的位置。</b>方法不断升级：</p>  <tab
+source\ch18.html	方法	>表 18.1　从损伤到成像：方法的升级</b></captio
+source\ch18.html	方法	><th class="l">方法</th><th class=
+source\ch18.html	方法	datasrc">说明：本表是方法学概括，不是完整的技术史。等级
+source\ch18.html	方法	，不是完整的技术史。等级 A（方法事实）；各方法的“优点/局限”
+source\ch18.html	方法	术史。等级 A（方法事实）；各方法的“优点/局限”是本书的整理，
+source\ch18.html	方法	"图 18.1　认知神经科学：方法的升级"><div class
+source\ch18.html	方法	>图 18.1　认知神经科学：方法的升级</b>——精度、因果性
+source\ch18.html	方法	。这项研究不是恶作剧，而是一个方法学警告：<b>如果没有严格的校
+source\ch18.html	方法	是说：<b>它的结果需要严格的方法学约束，不能只看“亮起来的区域
+source\ch18.html	方法	来的区域”。</b>等级：A（方法学文献）；对具体研究的评估，取
+source\ch18.html	方法	据结合。</p>  <p>它的方法不是“问被试‘你感觉如何’”，
+source\ch18.html	方法	但神经现象学仍然是一个小领域，方法不统一，样本小，难以重复。</
+source\ch18.html	方法	守住的东西：<b>不要因为一个方法更“科学”，就把另一个方法看见
+source\ch18.html	方法	一个方法更“科学”，就把另一个方法看见的东西划到外面。</b><
+source\ch18.html	研究	td class="l">损伤研究</td><td class=
+source\ch18.html	研究	为认知神经科学的主力工具。它让研究者可以在活人身上、在做任务的同
+source\ch18.html	研究	的大脑出现了“显著激活”。这项研究不是恶作剧，而是一个方法学警告
+source\ch18.html	研究	等级：A（方法学文献）；对具体研究的评估，取决于该研究的设计。<
+source\ch18.html	研究	）；对具体研究的评估，取决于该研究的设计。</p></div> 
+source\ch18.html	研究	也许与某个过程有关，值得进一步研究。”这是合法的，它只是生成假设
+source\ch18.html	研究	活，而其他条件不激活；结合已有研究，它更可能反映某个过程。”这需
+source\ch18.html	研究	  <p>问题在于，媒体与部分研究者常常把“弱用法”写成“强用法
+source\ch18.html	研究	/p>  <p>所以，读脑成像研究时，问一句：<b>这个脑区是“
+source\ch18.html	研究	。</b>脑成像、电生理、损伤研究，让“记忆”“注意”“情绪”这
+source\ch18.html	研究	位家属在手机上看到一条新闻：“研究发现，阿尔茨海默病患者的海马体
+source\ch18.html	研究	更“客观”、更有说服力。心理学研究反复发现：<b>同一段解释，配
+source\ch18.html	研究	可能性：<b>心理学不必在“只研究行为”与“只研究脑”之间二选一
+source\ch18.html	研究	理学不必在“只研究行为”与“只研究脑”之间二选一；它可以同时保留
+source\ch18.html	世界	activism）：认知不是对世界的表征，而是与世界的互动；意义
+source\ch18.html	世界	：认知不是对世界的表征，而是与世界的互动；意义在行动中生成。</
+source\ch19.html	文化	l">现象稳定（B），但比例随文化与情境变化</td></tr>
+source\ch19.html	文化	一个实验，在不同的时间、地点、文化、被试群体里，结果可能不同。<
+source\ch19.html	方法	 <p>勒温的场论有一个重要的方法论后果：<b>要预测行为，不能
+source\ch19.html	方法	民主优于专制”的证据。但它也有方法学问题：样本小、没有随机分配、
+source\ch19.html	方法	><th class="l">方法学问题</th><th cla
+source\ch19.html	研究	尔格拉姆在耶鲁大学发表了《行为研究中的服从》一文。实验的设置现在
+source\ch19.html	研究	标</b>，认为自己在为重要的研究做贡献，所以愿意继续。</p>
+source\ch19.html	研究	尔与哈斯拉姆做了“BBC 监狱研究”，试图复制这个实验；结果相反
+source\ch19.html	研究	讨论，也催生了“旁观者效应”的研究。</p>  <p>达利与拉塔
+source\ch19.html	研究	/p>  <p>这个效应在后续研究中被反复验证（B），但效应量没
+source\ch19.html	研究	作组织重复了 100 项心理学研究，只有约 39% 得到了与原研
+source\ch19.html	研究	究，只有约 39% 得到了与原研究一致的结果；社会心理学是重灾区
+source\ch19.html	研究	ical safety）在组织研究里那么重要：<b>它不是“让大
+source\ch19.html	研究	核心提供了一个很好的案例。一个研究能不能被发表、被引用、被写进教
+source\ch19.html	研究	作组织重复了 100 项心理学研究，社会心理学的复现率尤其低。这
+source\ch19.html	研究	</p>  <p>社会心理学的研究，有几个“高风险特征”：</p
+source\ch20.html	文化	峰体验、民主的性格、创造性、对文化的抵抗。</b></p>  <
+source\ch20.html	文化	却让出了“方法”；当它进入大众文化，没有方法的“意义”很容易变成
+source\ch20.html	文化	：自我决定理论用实验、量表、跨文化研究来检验它们，得出了大量可重
+source\ch20.html	文化	法：随机对照试验、纵向研究、跨文化样本。它也因此被人本主义者批评
+source\ch20.html	方法	意义”划了回来，代价是它让出了方法论的严格性。</p></div
+source\ch20.html	方法	></p>  <p>这个研究的方法很成问题：样本是马斯洛自己挑的
+source\ch20.html	方法	20.3　让出了什么：保意义让方法论严格性</h3>  <p>人
+source\ch20.html	方法	/p>  <p><b>它让出了方法论的严格性。</b>这是它最大
+source\ch20.html	方法	理学的合法对象，人本主义让出了方法论的严格性。<b>代价是：</
+source\ch20.html	方法	主义保住了“意义”，却让出了“方法”；当它进入大众文化，没有方法
+source\ch20.html	方法	方法”；当它进入大众文化，没有方法的“意义”很容易变成口号，而口
+source\ch20.html	方法	主义的主题，但用了一套更严格的方法：随机对照试验、纵向研究、跨文
+source\ch20.html	方法	批评为“重复发明轮子”，但它的方法学确实更硬。（第 24 章）<
+source\ch20.html	方法	这两层，是人本主义研究最重要的方法学进步。</b></p></d
+source\ch20.html	方法	许不是它的理论，而是它的<b>方法论立场</b>：它坚持“这个人
+source\ch20.html	方法	接纳与自我概念的语言，也让出了方法论的严格性。它被主流边缘化过，
+source\ch20.html	研究	（选择）：</b>如果心理学只研究“可测量的行为”与“可计算的加
+source\ch20.html	研究	：行为主义与精神分析。行为主义研究可观察的行为，精神分析研究无意
+source\ch20.html	研究	主义研究可观察的行为，精神分析研究无意识的冲突。两者有一个共同点
+source\ch20.html	研究	对此很不满。他说：如果心理学只研究病人、老鼠和平均数，它得到的只
+source\ch20.html	研究	缺的人像。“<b>这就好比我们研究了一群瘸子、侏儒和发育不良的人
+source\ch20.html	研究	均身高是四英尺。</b>”他要研究的是“健康的人”“成长的人”“
+source\ch20.html	研究	：一个人成为他能成为的样子。他研究了林肯、杰斐逊、爱因斯坦、斯宾
+source\ch20.html	研究	因斯坦、斯宾诺莎等历史人物，也研究了一些在世的“自我实现者”，总
+source\ch20.html	研究	</b></p>  <p>这个研究的方法很成问题：样本是马斯洛自
+source\ch20.html	研究	想人格的画像”，而不是一项实证研究。<b>但它提出了一个重要的方
+source\ch20.html	研究	一个重要的方向：心理学不应该只研究病理，也应该研究“蓬勃生长”。
+source\ch20.html	研究	心理学不应该只研究病理，也应该研究“蓬勃生长”。</b></p>
+source\ch20.html	研究	力的人物，也是把“治疗”变成“研究”的人。</p>  <p>罗杰
+source\ch20.html	研究	后，治疗可以被观察、被讨论、被研究。罗杰斯后来把这种“公开”推得
+source\ch20.html	研究	b>人本主义坚持：心理学不能只研究“平均人”，还要研究“这个人的
+source\ch20.html	研究	理学不能只研究“平均人”，还要研究“这个人的一生”；不能只研究“
+source\ch20.html	研究	要研究“这个人的一生”；不能只研究“症状”，还要研究“他想要成为
+source\ch20.html	研究	生”；不能只研究“症状”，还要研究“他想要成为什么”；不能只研究
+source\ch20.html	研究	研究“他想要成为什么”；不能只研究“过去如何决定他”，还要研究“
+source\ch20.html	研究	只研究“过去如何决定他”，还要研究“他如何选择未来”。这套主张把
+source\ch20.html	研究	”。</li> <li><b>研究设计薄弱。</b>马斯洛的样本
+source\ch20.html	研究	洛的样本是挑选的，罗杰斯的早期研究是单组的、没有对照的。这让他们
+source\ch20.html	研究	言，这套语言后来在“共同因素”研究、动机科学、积极心理学里找到了
+source\ch20.html	研究	能带来改变。</p>  <p>研究也支持这一点：治疗联盟与疗效有
+source\ch20.html	研究	p><b>第一次回归：共同因素研究。</b>1990 年代以后，
+source\ch20.html	研究	>1990 年代以后，心理治疗研究得出了一个稳定的结论：<b>不
+source\ch20.html	研究	 <p><b>第二次回归：动机研究。</b>自我决定理论（Dec
+source\ch20.html	研究	我决定理论用实验、量表、跨文化研究来检验它们，得出了大量可重复的
+source\ch20.html	研究	，塞利格曼提出“积极心理学”，研究幸福、优势、意义、投入。它继承
+source\ch20.html	研究	严格的方法：随机对照试验、纵向研究、跨文化样本。它也因此被人本主
+source\ch20.html	研究	。<b>区分这两层，是人本主义研究最重要的方法学进步。</b><
+source\ch20.html	研究	psychotherapy）。研究者开始承认：同一个诊断，不同的
+source\ch20.html	研究	代用哲学语言说了这件事，今天的研究者用统计语言重新说了一遍。</
+source\ch20.html	研究	被平均人替代——后来在共同因素研究、自我决定理论与个体化治疗里回
+source\ch20.html	世界	架，理解他的感受，“像他一样看世界”，但不失去“如同”的位置</
+source\ch21.html	文化	T）：当人意识到死亡时，会通过文化世界观与自尊来缓冲死亡焦虑。实
+source\ch21.html	文化	现：死亡提醒会让人更维护自己的文化世界观、更排斥外群体。（B）这
+source\ch21.html	文化	。它也有争议：重复性、效应量、文化差异，都还在讨论中。</p> 
+source\ch21.html	文化	），并预测它会让人更维护自己的文化世界观、更排斥外群体。</p>
+source\ch21.html	文化	响。</li> <li><b>文化差异</b>：TMT 的预测在
+source\ch21.html	文化	b>：TMT 的预测在集体主义文化里可能不同（比如：死亡提醒可能
+source\ch21.html	方法	界观与自尊来缓冲死亡焦虑。实验方法是“mortality sal
+source\ch21.html	方法	>弗兰克尔的书有一个必须指出的方法学问题：<b>幸存者偏差。</
+source\ch21.html	研究	的语言，这套语言后来在“意义感研究”“恐惧管理理论”“安宁疗护”
+source\ch21.html	研究	点选择。</p>  <p>实证研究也发现：生活意义感与心理健康、
+source\ch21.html	研究	21.4　被埋没与回归：意义感研究</h3>  <p>存在主义的
+source\ch21.html	研究	概念，后来以几种方式进入了实证研究。</p>  <p><b>第一
+source\ch21.html	研究	in life”成了一个独立的研究领域。研究者开发了量表，发现：
+source\ch21.html	研究	fe”成了一个独立的研究领域。研究者开发了量表，发现：<b>生活
+source\ch21.html	研究	己世界观一致/不一致的人。大量研究发现：死亡提醒会让人更维护自己
+source\ch21.html	研究	也容易被误读成“创伤是好事”。研究者反复强调：<b>成长与痛苦可
+source\ch21.html	研究	己的人生故事、留下给家人的话，研究发现它能减轻痛苦、增强尊严感。
+source\ch21.html	研究	极端的现象学见证，不是一项对照研究。意义疗法作为治疗，后来的实证
+source\ch21.html	研究	活意义感与心理健康的横断/纵向研究，而不是来自集中营叙事。<b>
+source\ch21.html	研究	外群体。</p>  <p>大量研究支持这个预测（B），但它也遇到
+source\ch21.html	研究	b>效应量不一致</b>：不同研究、不同操纵方式，效应大小差异很
+source\ch21.html	研究	验室复制没有得到显著结果；部分研究可能受“实验者期望”影响。</
+source\ch21.html	世界	过工作、行动、贡献，把意义放进世界</td><td class=
+source\ch21.html	世界	>通过爱、美、自然、艺术，接受世界的意义</td><td cla
+source\ch21.html	世界	：当人意识到死亡时，会通过文化世界观与自尊来缓冲死亡焦虑。实验方
+source\ch21.html	世界	想法，然后看他们如何评价与自己世界观一致/不一致的人。大量研究发
+source\ch21.html	世界	死亡提醒会让人更维护自己的文化世界观、更排斥外群体。（B）这个理
+source\ch21.html	世界	并预测它会让人更维护自己的文化世界观、更排斥外群体。</p>  
+source\ch21.html	世界	循环性</b>：如果任何“维护世界观”的行为都可以被解释为“死亡
+source\ch22.html	篩查	响；<b>②ACE 分数是一个篩查工具，不是诊断</b>；<b>
+source\ch22.html	文化	危机都有一个“解决”；不是所有文化都重视“同一性”或“亲密”。后
+source\ch22.html	文化	</p>  <p><b>第三，文化差异。</b>埃里克森的“同一
+source\ch22.html	文化	后承诺”的社会条件。在集体主义文化里，同一性可能更多是“接受关系
+source\ch22.html	文化	>把“同一性危机”直接套到所有文化，会漏掉“关系中的同一性”。<
+source\ch22.html	文化	长出来的，而是在与成人、同伴、文化的互动中被“带出来”的。</l
+source\ch22.html	文化	>。</li> <li><b>文化工具塑造心理。</b>语言、文
+source\ch22.html	文化	textual）：家庭、学校、文化、制度，都是发展的条件。</l
+source\ch22.html	文化	/b>同一个年龄，孩子的气质、文化、语言、教育机会差异很大；常模
+source\ch22.html	文化	里。“最近发展区”“脚手架”“文化工具”成了教师培训的标准词汇。
+source\ch22.html	研究	ltes）在柏林做了一项大规模研究：柏林老年研究（Berlin 
+source\ch22.html	研究	林做了一项大规模研究：柏林老年研究（Berlin Aging S
+source\ch22.html	研究	、健康、社会关系、主观幸福感。研究的结论，与传统发展心理学的一个
+source\ch22.html	研究	b>在他之前，发展心理学几乎只研究儿童；在他之后，青年、中年、老
+source\ch22.html	研究	后，青年、中年、老年都成了发展研究的对象。他还提出了“<b>繁衍
+source\ch22.html	研究	展成了一套可测量的“繁衍脚本”研究（B）。</p>  <p>但八
+source\ch22.html	研究	视“同一性”或“亲密”。后来的研究更多地把阶段看作“主题”，而不
+source\ch22.html	研究	.1.1　埃里克森之后：同一性研究的当代版</h4>  <p>埃
+source\ch22.html	研究	b>第一，同一性风格。</b>研究者区分了几种“同一性风格”：<
+source\ch22.html	研究	里来、我要去哪里”来建构自我。研究用“叙事同一性访谈”来分析故事
+source\ch22.html	研究	定，那么后来的努力就没有意义。研究并不支持这个结论：<b>后期干
+source\ch22.html	研究	xperiences，ACE）研究：他们调查了一万七千多名成年人
+source\ch22.html	研究	>（B）</p>  <p>这个研究影响巨大：它把“童年经验”从心
+source\ch22.html	研究	小心的地方：<b>①它是回顾性研究</b>，成年人的回忆可能被当
+source\ch22.html	研究	 ACE 分数，仍然发展良好。研究者后来强调“<b>保护性因素<
+source\ch22.html	研究	分数当成“人生判决”，是对这项研究最大的误用。</b></p> 
+source\ch22.html	研究	决</h4>  <p>ACE 研究（第 22.5 节）影响巨大，
+source\ch22.html	研究	</b>说：<b>①它是回顾性研究</b>，成年人的回忆可能被当
+source\ch23.html	問題	孩扩展到全家：<b>不是“她有問題”，而是“这个家在通过她表达一
+source\ch23.html	文化	谁，取决于我们在什么关系、什么文化、什么故事里被讲述。</li>
+source\ch23.html	文化	庭、学校、同伴、社交媒体、审美文化、食品工业。画得越小，责任越集
+source\ch23.html	文化	明：<b>一个疗法进入一个新的文化，不是“翻译技术”，而是“重新
+source\ch23.html	研究	t。他做过新几内亚的田野调查，研究过海豚的交流，参与过 1940
+source\ch23.html	研究	题有一些积极结果（B/C），但研究数量少、样本小、对照不严。它的
+source\ch23.html	研究	题有一些积极结果（B/C），但研究数量少、样本小、对照不严、随访
+source\ch23.html	研究	样本小、对照不严、随访短。有些研究报告的效应量与 CBT 相当，
+source\ch23.html	研究	与其他成分分开——这在心理治疗研究里非常困难。叙事疗法的支持者会
+source\ch23.html	研究	这避免了标签，也失去了与医保、研究、药物治疗的接口。</li> 
+source\ch23.html	研究	任、忽略权力不平等，也难与实证研究对接；<b>补偿是：</b>它
+source\ch23.html	世界	领土。</b>”我们感知的不是世界本身，而是世界在我们头脑里的模
+source\ch23.html	世界	”我们感知的不是世界本身，而是世界在我们头脑里的模型；而模型是由
+source\ch23.html	世界	 <li><b>知识不是对客观世界的镜映，而是在社会关系中建构的
+source\ch23.html	世界	> <li><b>语言不是描述世界的工具，而是构成世界的实践。<
+source\ch23.html	世界	言不是描述世界的工具，而是构成世界的实践。</b>我们说“抑郁”
+source\ch24.html	文化	地方检验：诊断手册、疗效标准、文化边界。</p></div>  
+source\ch24.html	文化	对照弱、缺乏主动对照；②<b>文化挪用</b>：把一个有伦理、有
+source\ch24.html	文化	：量表、随机对照、纵向研究、跨文化样本。</p>  <p>积极心
+source\ch24.html	文化	"sec24-6">24.6　文化心理学与 WEIRD</h3>
+source\ch24.html	文化	普遍规律”。</p>  <p>文化心理学（cultural ps
+source\ch24.html	文化	chology）的回应，是把“文化”放进心理学的核心，而不是当作
+source\ch24.html	文化	施韦德（Shweder）提出“文化心理学”与“跨文化心理学”的区
+source\ch24.html	文化	er）提出“文化心理学”与“跨文化心理学”的区别：前者认为心理过
+source\ch24.html	文化	的区别：前者认为心理过程本身在文化中形成，后者认为心理过程普遍、
+source\ch24.html	文化	更远：它主张心理学应该从当地的文化、语言、实践中生长出来，而不是
+source\ch24.html	文化	）。<b>这些传统不只是一个“文化版本”，它们对“什么是自我”“
+source\ch24.html	文化	”没有被检验；②有些结论确实随文化变化；③研究样本的多样性需要提
+source\ch24.html	文化	高。</b>它不是“心理学全是文化建构”。视觉皮层的组织、工作记
+source\ch24.html	文化	忆的容量、恐惧条件化的机制，跨文化差异较小；而自我概念、公平判断
+source\ch24.html	文化	念、公平判断、情绪表达规则，跨文化差异较大。<b>正确的态度是：
+source\ch24.html	文化	：<b>①择偶偏好</b>：跨文化研究发现，男性更看重年轻与外貌
+source\ch24.html	文化	n，1979）、历史的偶然、或文化演化的产物。<b>“这个故事听
+source\ch24.html	文化	p>更当代的方向，是把“基因—文化共同演化”（gene-cult
+source\ch24.html	文化	evolution）放进框架：文化不是基因的产物，而是与基因互相
+source\ch24.html	文化	数、婚姻制度、宗教，都是基因与文化共同演化的例子。<b>这个方向
+source\ch24.html	文化	d class="l">机制、文化语境、剂量标准</td><td
+source\ch24.html	文化	><td class="l">文化心理学</td><td cla
+source\ch24.html	文化	对真理，而是相对于对照与测量；文化的“普遍性”不是默认前提，而是
+source\ch24.html	文化	由数据决定的，是由制度、资源、文化决定的。</p>  <p>这就
+source\ch24.html	文化	的”。诊断的阈值、疗效的标准、文化的边界，都是人为的选择。承认这
+source\ch24.html	方法	20 章），但用了一套更严格的方法：量表、随机对照、纵向研究、跨
+source\ch24.html	方法	极心理学的回应，是走向更严格的方法：预注册、大样本、多实验室合作
+source\ch24.html	方法	</p>  <p>但它也有一个方法论的软肋：<b>“适应主义”<
+source\ch24.html	研究	，更可能给出同样的诊断。它也让研究变得可能：研究者可以用同一套标
+source\ch24.html	研究	样的诊断。它也让研究变得可能：研究者可以用同一套标准筛选被试，比
+source\ch24.html	研究	的“诊断不可靠”危机。</b>研究发现，不同精神科医生对同一个病
+source\ch24.html	研究	断“精神分裂”。这让精神医学的研究与保险支付都出了问题。DSM-
+source\ch24.html	研究	策略成功了：诊断的信度提高了，研究可以进行了，保险可以支付了。但
+source\ch24.html	研究	生理变化相关；这些不是虚构的。研究也发现，抑郁症状在人群中是连续
+source\ch24.html	研究	数字，来自 1970 年代的“研究诊断标准”（RDC）与 Fei
+source\ch24.html	研究	Feighner 标准，是为了研究方便而设定的；后来被 DSM-
+source\ch24.html	研究	被允许请假、谁被贴上标签、谁被研究。三个层面常常被混为一谈。说“
+source\ch24.html	研究	出现。<b>RDoC</b>（研究领域标准，2010）试图用神经
+source\ch24.html	研究	度更难用于临床决策、医保支付、研究与沟通。“抑郁”这个标签虽然粗
+source\ch24.html	研究	糙，但它能让医生、患者、保险、研究者在一个词上对话。<b>维度的
+source\ch24.html	研究	靠”的问题，由华盛顿大学的一批研究者（Feighner、Robi
+source\ch24.html	研究	s、Guze 等）提出了一套“研究诊断标准”（<b>Feighn
+source\ch24.html	研究	pitzer 等人把它扩展为“研究诊断标准”（RDC），再后来被
+source\ch24.html	研究	>——它是专家共识、临床经验、研究需求的产物，有它的合理性；<b
+source\ch24.html	研究	 Beck）原本是精神分析师，研究抑郁的认知模式；他发现，抑郁的
+source\ch24.html	研究	差异很大。2010 年代以后，研究者开始强调“<b>过程导向</
+source\ch24.html	研究	</p>  <p>正念的机制，研究得比较多的有三个：<b>①注意
+source\ch24.html	研究	①证据强度被夸大</b>：很多研究样本小、对照弱、缺乏主动对照；
+source\ch24.html	研究	“积极心理学”：心理学不应该只研究病理，还要研究幸福、优势、意义
+source\ch24.html	研究	：心理学不应该只研究病理，还要研究幸福、优势、意义、投入。这个主
+source\ch24.html	研究	格的方法：量表、随机对照、纵向研究、跨文化样本。</p>  <p
+source\ch24.html	研究	 (2016)。等级：A（复现研究）；对“积极心理学整体”的评价
+source\ch24.html	研究	作组织重复了 100 项心理学研究，只有约 39% 得到了与原研
+source\ch24.html	研究	究，只有约 39% 得到了与原研究一致的结果；社会心理学与认知心
+source\ch24.html	研究	<p><b>预注册</b>：在研究前公开假设、样本、分析计划，让
+source\ch24.html	研究	价：<b>预注册可能限制探索性研究；大样本需要更多经费；开放数据
+source\ch24.html	研究	>门槛划在哪里，决定了什么样的研究能被做、能被发表、能被相信。<
+source\ch24.html	研究	orld?）。他们统计了心理学研究的样本：<b>约 96% 来自
+source\ch24.html	研究	出了一个根本问题：<b>心理学研究的是“人”，还是“西方大学生”
+source\ch24.html	研究	方大学生”？</b>如果大部分研究只在一个特殊的样本上做，那么它
+source\ch24.html	研究	；②有些结论确实随文化变化；③研究样本的多样性需要提高。</b>
+source\ch24.html	研究	b>①择偶偏好</b>：跨文化研究发现，男性更看重年轻与外貌，女
+source\ch24.html	世界	>认知三角</b>”：对自我、世界、未来的负面看法。他由此发展出
+source\ch24.html	世界	挪用</b>：把一个有伦理、有世界观、有僧团制度的传统，压缩成“
+source\ch24.html	世界	发表了一篇论文，标题很挑衅：《世界上最怪异的人？》（The we
+source\ch25.html	文化	、DSM、CBT、正念、积极、文化、进化</td><td cla
+source\ch25.html	文化	s="l">关系、故事、循证、文化差异</td><td clas
+source\ch25.html	文化	；当代让出了“门槛的自然性”，文化心理学与本土心理学把它拿回来。
+source\ch25.html	方法	datasrc">本表是全书的方法论总结；每一行的“容易犯的错”
+source\ch25.html	方法	s="l">问题的深度、实验的方法、整体的知觉</td><td 
+source\ch25.html	方法	td class="l">客观方法、可干预的技术、短程疗效</t
+source\ch25.html	方法	><td class="l">方法论严格性、可测量性、个体变异<
+source\ch25.html	方法	class="l">新的工具、方法、制度出现，能“接住”原来的问
+source\ch25.html	方法	>【给专家的注】</b>本书的方法论，可以用一句话概括：<b>用
+source\ch25.html	方法	来组织一部学科史。</b>这个方法的优点是：它能容纳失败的流派、
+source\ch25.html	研究	问题：<b>心灵能不能被科学地研究？</b>一百五十年后，心理学
+source\ch25.html	研究	td class="l">“没研究＝不存在”</td><td c
+source\ch25.html	研究	析，而是回到有意义感量表的经验研究。<b>回归是螺旋，不是循环。
+source\ch25.html	研究	p>  <p><b>第四类是被研究的人。</b>WEIRD 样本
+source\ch25.html	研究	斯坦福监狱、米尔格拉姆——这些研究的知识收益，由整个学科分享；它
+source\ch25.html	研究	由被试承担。有些被试从未被告知研究的真实目的，有些从未被去条件化
+source\ch25.html	研究	公共可信度受损。每一次“心理学研究表明”被夸大，下一次真正的发现
+source\ch25.html	研究	》；认知心理学接住格式塔；教育研究接住 ZPD</td></tr
+source\ch25.html	研究	一个读者看到一条新闻：“心理学研究表明，每天刷社交媒体超过三小时
+source\ch25.html	研究	<p><b>看见：</b>这个研究把“抑郁”划成了量表分数，把“
+source\ch25.html	研究	是一个更精确的判断：<b>这个研究能说明“相关”，不能说明“因果
+source\ch25.html	研究	“它保了 A，让了 B”；任何研究，你都可以说“它看见了 X，漏
+source\ch25.html	研究	——一个流派、一种疗法、一条“研究表明”、一个诊断、一次测评——
+source\front_copyright.html	方法	，正文同时给出原始报告与后来的方法学批评，不把任何一方写成定论。
+source\front_copyright.html	研究	把任何一方写成定论。凡引用具体研究结论处，均标注证据等级；凡属于
+source\front_copyright.html	研究	部的争议，最终要由该领域的实证研究与临床实践来裁决。</p>  
+source\front_finitude.html	研究	论：人的心理到底是什么、该怎样研究、谁说了算。争论里有几十个流派
+source\front_finitude.html	研究	信息单元大约在七个左右；后来的研究把这个数字往下修，工作记忆的容
+source\front_finitude.html	研究	家庭治疗各自适用于什么，是临床研究的问题，需要随机对照试验、元分
+source\front_finitude.html	研究	到的，是让你在下次听到“心理学研究表明”时，多问六个问题。它不能
+source\front_howto.html	文化	困、创伤），也没有看见“正念的文化语境”（佛教伦理、生活形式）。
+source\front_howto.html	文化	作、可复制、可支付”，让出了“文化语境、个体意义、长期效果”。<
+source\front_howto.html	文化	有效；它的证据强度、适用边界、文化代价，需要分开看。</b>这比
+source\front_howto.html	方法	让出了意义，但它换来了可观察的方法与有效的治疗；精神分析让出了可
+source\front_howto.html	研究	><td class="l">研究者</td><td class
+source\front_howto.html	研究	性。</li> <li><b>研究者：</b>直接读“给专家的注
+source\front_howto.html	研究	就说“它让出了 A”；看见一个研究，就说“它看不见 B”。<b>
+source\front_howto.html	研究	b>讲述：</b>谁给它定价？研究者、期刊、企业、App 平台。
+source\front_howto.html	研究	的；八周之后“有效”的门槛，是研究设计划的。这些门槛，是发现的，
+source\front_howto.html	研究	每停顿一次，就少一次被“心理学研究表明”牵着走的机会。</b><
+source\front_intro.html	隨時	组织。年表在附录 B，读者可以隨時对照。</p>  <h3>5<
+source\front_intro.html	哪種	>第一，它不裁判疗效。</b>哪種治疗对哪种问题有效，是临床研究
+source\front_intro.html	文化	M、CBT、正念、积极心理学、文化心理学、进化心理学。这一部分回
+source\front_intro.html	方法	西没有真正消失，而是活在对手的方法、量表、治疗手册里？</li>
+source\front_intro.html	研究	1970 年代以后，认知心理学研究“自上而下的加工”“整体优先效
+source\front_intro.html	研究	d class="l">把“没研究”误当成“不存在”</td><
+source\front_intro.html	研究	哪種治疗对哪种问题有效，是临床研究的问题。本书会讲艾森克 195
+source\front_quick.html	研究	td class="l">“没研究＝不存在”</td></tr>
+source\front_quick.html	研究	任何一种疗法、任何一条“心理学研究表明”，依次问：<b>①它把什

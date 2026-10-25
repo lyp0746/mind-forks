@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" width="1000" height="640" font-family="Microsoft YaHei, PingFang SC, SimHei, sans-serif">
+<rect width="1000" height="640" fill="#ffffff"/>
+<text x="500" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">翻译是有损的：弗洛伊德概念与现代对应</text>
+<text x="500" y="62" text-anchor="middle" font-size="14" fill="#666666">被翻译的部分进入实验室；未被翻译的部分留在文本里</text>
+<defs><marker id="ah" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"
+markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 z" fill="#666666"/></marker></defs>
+<text x="200" y="92" text-anchor="middle" font-size="15" fill="#2f6db0" font-weight="bold">弗洛伊德的概念</text>
+<text x="800" y="92" text-anchor="middle" font-size="15" fill="#2e7d32" font-weight="bold">现代对应</text>
+<rect x="40" y="96" width="300" height="44" rx="8" fill="#f7f9fc" stroke="#2f6db0" stroke-width="1.4"/>
+<text x="190" y="124" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">接触屏障</text>
+<rect x="660" y="96" width="300" height="44" rx="8" fill="#f7fbf8" stroke="#2e7d32" stroke-width="1.4"/>
+<text x="810" y="124" text-anchor="middle" font-size="13" fill="#1a1a1a" font-weight="normal">突触可塑性</text>
+<line x1="345" y1="118" x2="655" y2="118" stroke="#666666" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="40" y="156" width="300" height="44" rx="8" fill="#f7f9fc" stroke="#2f6db0" stroke-width="1.4"/>
+<text x="190" y="184" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">压抑</text>
+<rect x="660" y="156" width="300" height="44" rx="8" fill="#f7fbf8" stroke="#2e7d32" stroke-width="1.4"/>
+<text x="810" y="184" text-anchor="middle" font-size="13" fill="#1a1a1a" font-weight="normal">记忆抑制</text>
+<line x1="345" y1="178" x2="655" y2="178" stroke="#666666" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="40" y="216" width="300" height="44" rx="8" fill="#f7f9fc" stroke="#2f6db0" stroke-width="1.4"/>
+<text x="190" y="244" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">事后性</text>
+<rect x="660" y="216" width="300" height="44" rx="8" fill="#f7fbf8" stroke="#2e7d32" stroke-width="1.4"/>
+<text x="810" y="244" text-anchor="middle" font-size="13" fill="#1a1a1a" font-weight="normal">记忆再巩固</text>
+<line x1="345" y1="238" x2="655" y2="238" stroke="#666666" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="40" y="276" width="300" height="44" rx="8" fill="#f7f9fc" stroke="#2f6db0" stroke-width="1.4"/>
+<text x="190" y="304" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">移情</text>
+<rect x="660" y="276" width="300" height="44" rx="8" fill="#f7fbf8" stroke="#2e7d32" stroke-width="1.4"/>
+<text x="810" y="304" text-anchor="middle" font-size="13" fill="#1a1a1a" font-weight="normal">关系图式/预期</text>
+<line x1="345" y1="298" x2="655" y2="298" stroke="#666666" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="40" y="336" width="300" height="44" rx="8" fill="#f7f9fc" stroke="#2f6db0" stroke-width="1.4"/>
+<text x="190" y="364" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">梦＝愿望满足</text>
+<rect x="660" y="336" width="300" height="44" rx="8" fill="#f7fbf8" stroke="#2e7d32" stroke-width="1.4"/>
+<text x="810" y="364" text-anchor="middle" font-size="13" fill="#1a1a1a" font-weight="normal">REM 情绪加工（争议）</text>
+<line x1="345" y1="358" x2="655" y2="358" stroke="#666666" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="40" y="396" width="300" height="44" rx="8" fill="#f7f9fc" stroke="#2f6db0" stroke-width="1.4"/>
+<text x="190" y="424" text-anchor="middle" font-size="14" fill="#1a1a1a" font-weight="normal">死本能</text>
+<rect x="660" y="396" width="300" height="44" rx="8" fill="#f7fbf8" stroke="#2e7d32" stroke-width="1.4"/>
+<text x="810" y="424" text-anchor="middle" font-size="13" fill="#1a1a1a" font-weight="normal">无稳定对应</text>
+<line x1="345" y1="418" x2="655" y2="418" stroke="#666666" stroke-width="1.4" marker-end="url(#ah)"/>
+<text x="500" y="480" text-anchor="middle" font-size="13" fill="#2e7d32" font-weight="normal">证据较强的翻译：接触屏障、事后性、移情（B）</text>
+<text x="500" y="510" text-anchor="middle" font-size="13" fill="#c62828" font-weight="normal">几乎没有被翻译：梦的愿望满足、死本能（C）</text>
+<text x="500" y="560" text-anchor="middle" font-size="12" fill="#666666" font-weight="normal">“被证实”通常只指左边最上面那几行；把整列都算作“弗洛伊德被证明”，是过度推销。</text>
+</svg>

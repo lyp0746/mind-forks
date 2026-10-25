@@ -1,0 +1,107 @@
+{
+  "title": "心灵的分岔：从无意识到可观察——心理学流派的六次划线 / The Forking Mind: Six Ways Psychology Drew Its Lines",
+  "description": "<p><b>中文.</b> 本著作是同一作者“六个核心”系列的第一本科普专著：用六个提问，重读心理学一百五十年的流派史。</p><p>核心主张：心理学流派史不是一部“谁取代谁”的进步史，也不是一部“谁都被冤枉”的平反史，而是一部“谁在哪里划线、又把什么划到外面、最后由谁付账”的账本史。每个流派都是一次尝试：先划一条线，再决定记住什么、用什么钟、保哪两项、请谁定价、在哪里设门槛；六核问的是“它在哪一步让出了什么”，不是“它对不对”。</p><p>结构与证据：6 部分、25 章、附录 A—Q、309 页、25 幅矢量插图、68 个表、约 26 万字。第一部分（1—4）划线的诞生：柏拉图—康德、冯特、布伦塔诺、詹姆斯、构造/机能、格式塔；第二部分（5—11）深度的代价：弗洛伊德、荣格、阿德勒、客体关系、自体/依恋、拉康、神经精神分析、心理测量；第三部分（12—15）可观察的约束：华生、巴甫洛夫、斯金纳、行为疗法、行为主义的遗产；第四部分（16—19）内部的回归：认知革命、皮亚杰/乔姆斯基、认知神经科学、社会认知；第五部分（20—22）意义与时间：人本主义、存在主义、发展心理学；第六部分（23—25）系统与定价：系统/后现代、CBT/正念/积极/文化/进化、六核回望。每章以一个人物或争议开场，以一个核心主提问展开，以一句“它让出了什么”收束。</p><p>诚实的纪律：所有结论标注 A／B／C 证据等级（A 可查证/可复算，B 稳定但有争议，C 思辨/开放），结论强度不超过证据强度；有争议的实验（小艾伯特、斯坦福监狱、米尔格拉姆）同时给出原始报告与后来的方法学批评；对人物的临床推测一律标 C。附录 F 是可证伪登记簿（20 条主张，逐条给出“什么会推翻它”“怎么查”“当前状态”）；附录 G 是数据缺口与四条边界。</p><p>边界：本书不提供临床建议，不裁判疗效；“讲述”这一核心不做“揭穿”，只做“定价审计”；六核不能替代领域知识，也处理不了权力与制度的全部。它明确让出了临床细节、非西方传统、定量证据与制度史，并在附录 G 逐条列出。</p><p>版本：2026-10-25，309 页，25 章，25 图，68 表，附录 A—Q；源码与可复现脚本开源，内容 CC BY 4.0，代码 MIT。</p><p><b>本版说明（2026-10-25）。</b>初版。正文采用四层装置（正文／多想一层／再想一层／给专家的注／动手试试）；目录为部分—章—节—子节四级；每章附“案例”与“反例”两个子节，用来防止“让出”变成事后编造。附录 A—Q 依次为：流派×六核对照表、一百五十年时间线、术语表、一百个人名、被埋没与重新发现清单、可证伪登记簿、数据缺口、延伸阅读与主题索引、分支地图、精神病理学的另一条线、被主流漏掉的传统、中国心理学一百年、二十种疗法对照、心理学与 AI、十二个常见误解与练习册、十个实验/十次复现/方法手册、二十对易混概念。</p><p><b>系列 / Series.</b> 同一作者的独立研究系列：九本书（六本学术专著 + 两本通俗读本 + 本书）与九篇论文。入口与外部登记库：<a href=\"https://github.com/lyp0746/knowledge-tradeoffs\">https://github.com/lyp0746/knowledge-tradeoffs</a>；源码与可复现脚本：<a href=\"https://github.com/lyp0746/mind-forks\">https://github.com/lyp0746/mind-forks</a>。首选预览文件：<code>mind-forks-print.pdf</code>（印刷版）。</p><p><b>English.</b> Abstract (English). This is the first popular-science monograph in the author's six-core series: six questions reread 150 years of psychology. Core thesis: the history of psychological schools is neither a chronicle of replacement nor a rehabilitation of the wronged, but a ledger of who drew which line, what was left outside it, and who paid. Every school is an attempt that first draws a line and then decides what to remember, which clock to use, which two of completeness, composability and transfer to keep, who may set the price, and where to put the threshold; the six cores ask what it gave up, not whether it was right. Structure and evidence: 6 parts, 25 chapters, appendices A–Q, 309 pages, 25 vector figures, 68 tables, about 260,000 Chinese characters. Part I (1–4) the birth of the line: Plato to Kant, Wundt, Brentano, James, structuralism/functionalism, Gestalt; Part II (5–11) the price of depth: Freud, Jung, Adler, object relations, self/attachment, Lacan, neuropsychoanalysis, psychometrics; Part III (12–15) the observable constraint: Watson, Pavlov, Skinner, behaviour therapy, the behaviourist legacy; Part IV (16–19) the return of the interior: cognitive revolution, Piaget/Chomsky, cognitive neuroscience, social cognition; Part V (20–22) meaning and time: humanistic, existential, developmental; Part VI (23–25) systems and pricing: systemic/postmodern, CBT/mindfulness/positive/cultural/evolutionary, and a six-core retrospect. Each chapter opens with a person or a controversy, develops one core question, and closes with one sentence on what the school gave up. Discipline: every claim carries an A/B/C grade (A verifiable/recomputable, B stable but contested, C speculative/open) and no conclusion is stronger than its evidence; contested experiments (Little Albert, Stanford Prison, Milgram) are presented with both the original report and later methodological criticism; clinical conjectures about persons are graded C. Appendix F is a falsifiability ledger (20 claims, each with what would refute it, how to check, and current status); Appendix G lists data gaps and four boundaries. Boundaries: the book offers no clinical advice and does not adjudicate efficacy; the “telling” core audits pricing rather than debunking; the six cores do not replace domain knowledge and cannot handle all questions of power and institutions. It explicitly gives up clinical detail, non-Western traditions, systematic quantitative evidence and institutional history, as listed in Appendix G. Edition: 2026-10-25, 309 pages, 25 chapters, 25 figures, 68 tables, appendices A–Q; source and reproducible scripts open, content CC BY 4.0, code MIT.</p><p><b>What this edition is (2026-10-25).</b> First edition. The text uses four reader levels (main text / one layer deeper / one more / expert note / hands-on) and a four-level table of contents (part–chapter–section–subsection). Each chapter adds a “case” and a “counterexample” subsection so that “what it gave up” cannot become a post-hoc story. Appendices A–Q are, in order: a school-by-core table, a 150-year timeline, a glossary, one hundred names, a register of buried-and-recovered ideas, a falsifiability ledger, data gaps, further reading with a thematic index, a map of subfields, a second line in psychopathology, marginalized traditions, a century of Chinese psychology, twenty therapies compared, psychology and AI, twelve misconceptions and a workbook, ten experiments / ten replications / a methods handbook, and twenty confusable concept pairs.</p>",
+  "creators": [
+    {
+      "name": "李毅芃",
+      "affiliation": "独立研究者 / Independent Researcher"
+    }
+  ],
+  "keywords": [
+    "心灵的分岔",
+    "the forking mind",
+    "心理学史",
+    "history of psychology",
+    "精神分析",
+    "psychoanalysis",
+    "行为主义",
+    "behaviourism",
+    "认知革命",
+    "cognitive revolution",
+    "人本主义",
+    "humanistic psychology",
+    "六个核心",
+    "six cores",
+    "流派",
+    "schools",
+    "划线",
+    "drawing the line",
+    "置信度",
+    "confidence",
+    "临界",
+    "criticality",
+    "科普",
+    "popular science"
+  ],
+  "subjects": [
+    {
+      "term": "History of Psychology",
+      "scheme": "custom"
+    },
+    {
+      "term": "Psychoanalysis",
+      "scheme": "custom"
+    },
+    {
+      "term": "Popular Science",
+      "scheme": "custom"
+    },
+    {
+      "term": "Scientific Methodology",
+      "scheme": "custom"
+    },
+    {
+      "term": "Cognitive Science",
+      "scheme": "custom"
+    },
+    {
+      "term": "Psychotherapy",
+      "scheme": "custom"
+    }
+  ],
+  "notes": "科目（中文）：心理学史 History of Psychology、精神分析 Psychoanalysis、科学普及 Popular Science、科学方法论 Scientific Methodology、认知科学 Cognitive Science、心理治疗 Psychotherapy。语言：中文（含英文摘要）。结构：25 章，约 309 页，25 图，68 表，附录 A—Q。首选预览文件：mind-forks-print.pdf（印刷版）。引用格式见 CITATION.cff。 系列共 19 件（18 件作品 + 本合集）；related_identifiers 已按裸 DOI 归一。",
+  "license": "CC-BY-4.0",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "language": "zho",
+  "access_right": "open",
+  "publication_date": "2026-10-25",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/lyp0746/knowledge-tradeoffs",
+      "relation": "isPartOf",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.23286403",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.23323277",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.23412033",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.23388628",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.23416220",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.23447311",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ],
+  "version": "2026-10-25"
+}

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" width="1000" height="560" font-family="Microsoft YaHei, PingFang SC, SimHei, sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="500" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">三个格式塔现象：你看见的不是纸上画的东西</text>
+<text x="500" y="62" text-anchor="middle" font-size="14" fill="#666666">似动 · 闭合 · 图形—背景</text>
+<defs><marker id="ah" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"
+markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 z" fill="#666666"/></marker></defs>
+<rect x="50" y="100" width="280" height="340" rx="8" fill="#fbfcfe" stroke="#2f6db0" stroke-width="1.4"/>
+<text x="190" y="132" text-anchor="middle" font-size="16" fill="#2f6db0" font-weight="bold">① phi 现象</text>
+<circle cx="120" cy="220" r="12" fill="#2f6db0" stroke="#2f6db0" stroke-width="1.6"/>
+<circle cx="260" cy="220" r="12" fill="#2f6db0" stroke="#2f6db0" stroke-width="1.6"/>
+<line x1="140" y1="220" x2="240" y2="220" stroke="#666666" stroke-width="1.4" stroke-dasharray="4,4" marker-end="url(#ah)"/>
+<text x="190" y="270" text-anchor="middle" font-size="13" fill="#1a1a1a" font-weight="normal">两次静止闪光 → 看见运动</text>
+<text x="190" y="300" text-anchor="middle" font-size="12" fill="#666666" font-weight="normal">运动是第一性的，不是推断</text>
+<rect x="360" y="100" width="280" height="340" rx="8" fill="#fbfcfe" stroke="#2e7d32" stroke-width="1.4"/>
+<text x="500" y="132" text-anchor="middle" font-size="16" fill="#2e7d32" font-weight="bold">② 闭合</text>
+<path d="M 430 210 A 70 70 0 1 1 500 290" fill="none" stroke="#2e7d32" stroke-width="5"/>
+<text x="500" y="330" text-anchor="middle" font-size="13" fill="#1a1a1a" font-weight="normal">缺口被自动补成“圆”</text>
+<text x="500" y="360" text-anchor="middle" font-size="12" fill="#666666" font-weight="normal">看见的是整体，不是弧段</text>
+<rect x="670" y="100" width="280" height="340" rx="8" fill="#fbfcfe" stroke="#8e5a9c" stroke-width="1.4"/>
+<text x="810" y="132" text-anchor="middle" font-size="16" fill="#8e5a9c" font-weight="bold">③ 图形—背景</text>
+<path d="M 760 180 C 700 230 700 330 760 370 C 820 330 820 230 760 180 Z" fill="#8e5a9c" opacity="0.55"/>
+<circle cx="735" cy="265" r="26" fill="#ffffff" stroke="#8e5a9c" stroke-width="3"/>
+<circle cx="785" cy="265" r="26" fill="#ffffff" stroke="#8e5a9c" stroke-width="3"/>
+<text x="810" y="400" text-anchor="middle" font-size="13" fill="#1a1a1a" font-weight="normal">花瓶，还是两张侧脸？</text>
+<text x="810" y="428" text-anchor="middle" font-size="12" fill="#666666" font-weight="normal">同一刺激，两种组织</text>
+<text x="500" y="500" text-anchor="middle" font-size="13" fill="#666666" font-weight="normal">格式塔的结论：组织是自动的、先于元素的；代价是它很难被分解与计算。</text>
+</svg>

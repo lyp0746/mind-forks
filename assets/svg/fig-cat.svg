@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" width="1000" height="640" font-family="Microsoft YaHei, PingFang SC, SimHei, sans-serif">
+<rect width="1000" height="640" fill="#ffffff"/>
+<text x="500" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">第一次三选二：构造主义与机能主义</text>
+<text x="500" y="62" text-anchor="middle" font-size="14" fill="#666666">C 完备 / A 可组合 / T 传递 —— 两条路各保两项</text>
+<defs><marker id="ah" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"
+markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 z" fill="#666666"/></marker></defs>
+<polygon points="500,160 370,385 630,385" fill="#f7f9fc" stroke="#9aa4b2" stroke-width="2"/>
+<circle cx="500.0" cy="160.0" r="9" fill="#2f6db0" stroke="#2f6db0" stroke-width="1.6"/>
+<circle cx="370.0961894323342" cy="385.0" r="9" fill="#2e7d32" stroke="#2e7d32" stroke-width="1.6"/>
+<circle cx="629.9038105676658" cy="385.0" r="9" fill="#ef6c00" stroke="#ef6c00" stroke-width="1.6"/>
+<text x="500.0" y="128.0" text-anchor="middle" font-size="15" fill="#2f6db0" font-weight="bold">C 完备（精确分析）</text>
+<text x="370.0961894323342" y="421.0" text-anchor="middle" font-size="15" fill="#2e7d32" font-weight="bold">A 可组合（元素/功能）</text>
+<text x="629.9038105676658" y="421.0" text-anchor="middle" font-size="15" fill="#ef6c00" font-weight="bold">T 传递（应用）</text>
+<line x1="500.0" y1="160.0" x2="370.0961894323342" y2="385.0" stroke="#2f6db0" stroke-width="5"/>
+<line x1="370.0961894323342" y1="385.0" x2="629.9038105676658" y2="385.0" stroke="#ef6c00" stroke-width="5"/>
+<text x="500" y="314" text-anchor="middle" font-size="15" fill="#2f6db0" font-weight="bold">构造：C+A</text>
+<text x="500" y="340" text-anchor="middle" font-size="14" fill="#c62828" font-weight="normal">让出 T</text>
+<text x="500" y="540" text-anchor="middle" font-size="15" fill="#2e7d32" font-weight="bold">机能：A+T　→　让出 C（精确机制）</text>
+<text x="500" y="570" text-anchor="middle" font-size="13" fill="#666666" font-weight="normal">两条边都经过 A；分歧在“要不要为了精确而放弃应用”。</text>
+</svg>

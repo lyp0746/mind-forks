@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1414" width="1000" height="1414">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#0e1117"/><stop offset="0.55" stop-color="#151a23"/>
+<stop offset="1" stop-color="#0b0e14"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="1000" height="1414" fill="url(#bg)"/>
+<rect x="0" y="0" width="1000" height="8" fill="#b8862f" opacity="0.85"/>
+<path d="M 500 1040 L 500 860" fill="none" stroke="#7d8a99" stroke-width="2" opacity="0.7"/>
+<path d="M 500 860 Q 440.0 800 380 720" fill="none" stroke="#7d8a99" stroke-width="1.8" opacity="0.7"/>
+<path d="M 500 860 Q 500.0 800 500 720" fill="none" stroke="#7d8a99" stroke-width="1.8" opacity="0.7"/>
+<path d="M 500 860 Q 560.0 800 620 720" fill="none" stroke="#7d8a99" stroke-width="1.8" opacity="0.7"/>
+<path d="M 380 720 Q 302.0 650 260 570" fill="none" stroke="#7d8a99" stroke-width="1.8" opacity="0.7"/>
+<circle cx="260" cy="570" r="7" fill="#b8862f" stroke="#b8862f" stroke-width="1.6" opacity="0.9"/>
+<path d="M 380 720 Q 388.0 650 360 570" fill="none" stroke="#7d8a99" stroke-width="1.8" opacity="0.7"/>
+<circle cx="360" cy="570" r="7" fill="#b8862f" stroke="#b8862f" stroke-width="1.6" opacity="0.9"/>
+<path d="M 500 720 Q 462.0 650 460 560" fill="none" stroke="#7d8a99" stroke-width="1.8" opacity="0.7"/>
+<circle cx="460" cy="560" r="7" fill="#b8862f" stroke="#b8862f" stroke-width="1.6" opacity="0.9"/>
+<path d="M 500 720 Q 538.0 650 540 560" fill="none" stroke="#7d8a99" stroke-width="1.8" opacity="0.7"/>
+<circle cx="540" cy="560" r="7" fill="#b8862f" stroke="#b8862f" stroke-width="1.6" opacity="0.9"/>
+<path d="M 620 720 Q 612.0 650 640 570" fill="none" stroke="#7d8a99" stroke-width="1.8" opacity="0.7"/>
+<circle cx="640" cy="570" r="7" fill="#b8862f" stroke="#b8862f" stroke-width="1.6" opacity="0.9"/>
+<path d="M 620 720 Q 698.0 650 740 570" fill="none" stroke="#c94f4f" stroke-width="1.8" opacity="0.85" stroke-dasharray="7,6"/>
+<circle cx="740" cy="570" r="7" fill="none" stroke="#c94f4f" stroke-width="1.6" opacity="0.9"/>
+<text x="225" y="548" text-anchor="middle" class="vl" fill="#cfd6de">看见</text>
+<text x="330" y="540" text-anchor="middle" class="vl" fill="#cfd6de">记住</text>
+<text x="430" y="532" text-anchor="middle" class="vl" fill="#cfd6de">跟上</text>
+<text x="570" y="532" text-anchor="middle" class="vl" fill="#cfd6de">选择</text>
+<text x="670" y="540" text-anchor="middle" class="vl" fill="#cfd6de">讲述</text>
+<text x="775" y="548" text-anchor="middle" class="vl" fill="#c94f4f">临界</text>
+<text x="500" y="800" text-anchor="middle" class="mid">六次划线</text>
+<style>
+text{font-family:'Microsoft YaHei','SimHei',Arial,sans-serif;}
+.ttl{font-size:112px;font-weight:700;letter-spacing:14px;fill:#e8e6df;}
+.sub{font-size:28px;fill:#9aa0a6;letter-spacing:2px;}
+.eng{font-size:20px;fill:#9aa0a6;letter-spacing:1px;}
+.au{font-size:30px;fill:#e8e6df;letter-spacing:2px;}
+.rule{stroke:#9aa0a6;stroke-width:1;opacity:0.6;}
+.vl{font-size:22px;letter-spacing:1px;}
+.mid{font-size:32px;fill:#b8862f;letter-spacing:8px;font-weight:700;}
+</style>
+<text x="80" y="176" class="eng">THE FORKING MIND</text>
+<text x="80" y="300" class="ttl">心灵的分岔</text>
+<line x1="84" y1="344" x2="760" y2="344" class="rule"/>
+<text x="84" y="396" class="sub">从无意识到可观察：</text>
+<text x="84" y="440" class="sub">心理学流派的六次划线</text>
+<text x="84" y="500" class="eng">看见 · 记住 · 跟上 · 选择 · 讲述 · 临界</text>
+<text x="80" y="1180" class="au">李毅芃　著</text>
+<text x="80" y="1232" class="eng">Six Ways Psychology Drew Its Lines</text>
+<text x="80" y="1274" class="eng">科普专著 · 2026</text>
+</svg>
