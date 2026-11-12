@@ -40,6 +40,7 @@ BACK = [
         ("后记　写给准备走进咨询室的人", "back_postscript.html", "apxp"),
         ("本系列（九本书）", "back_series.html", "apxs"),
         ("术语表", "back_glossary.html", "apxg"),
+        ("参考文献与延伸阅读", "back_references.html", "apxr"),
         ("附录 A　数据与案例", "appendix_a.html", "apxA"),
         ("附录 B　协议与稳健性", "appendix_b.html", "apxB"),
         ("附录 C　可证伪登记簿", "appendix_c.html", "apxC"),
