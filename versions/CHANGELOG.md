@@ -49,3 +49,13 @@
 - 第 12 章（华生）与第 13 章（斯金纳）合并为第 12 章「行为主义：从华生到斯金纳——保可观察，让出意义」，约 1.4 万字、13 节；新增合并小结 12.13。
 - 章数 25 → 24；原 14—25 顺移为 13—24；图 13.1 → 图 12.2、表 13.1 → 表 12.2；节/锚点/parts.json 一次改完。
 - 页数 331 → 329。
+
+## 2026-11-25　工作区清理（断舍离）
+
+派生件与旧快照不留副本；版本靠本文件与 Zenodo 记录追溯。本次删除：
+
+- `output/book-ereader.html`
+- `output/book.html`
+
+重建：`build_book.py --pdf` / `--ereader --pdf`、`build_markdown.py`、`build_epub.py`；
+论文用 `generate_publication_suite.py`。
